@@ -272,8 +272,9 @@ def main():
     with open(filepath, "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
     
-    # Update index
+    # Update index and generate static HTML
     update_index()
+    generate_static_html()
     
     print(f"📝 Saved to {filepath}")
     
@@ -307,6 +308,220 @@ def update_index():
         json.dump(posts, f, ensure_ascii=False, indent=2)
     
     print(f"📋 Updated index: {len(posts)} posts")
+
+
+def generate_static_html():
+    """Generate static index.html and per-post HTML files."""
+    import html as _html
+    
+    SITE_DIR = OUTPUT_DIR.parent
+    INDEX_TEMPLATE = SITE_DIR / "index.html"
+    
+    # Collect all posts
+    all_posts = []
+    for f in sorted(OUTPUT_DIR.glob("????-??-??.json"), reverse=True):
+        try:
+            with open(f, "r") as fp:
+                data = json.load(fp)
+            all_posts.append(data)
+        except (json.JSONDecodeError, KeyError):
+            continue
+    
+    if not all_posts:
+        return
+    
+    # Calculate stats
+    post_count = len(all_posts)
+    total_repos = sum(len(d.get("repos", [])) for d in all_posts)
+    top_stars = ""
+    for d in all_posts:
+        if d.get("repos"):
+            s = d["repos"][0].get("stars_today", "")
+            if s and (not top_stars or _parse_star_num(s) > _parse_star_num(top_stars)):
+                top_stars = s
+    
+    # Build post cards
+    cards = []
+    for d in all_posts:
+        date = d["date"]
+        date_display = _format_date_cn(date)
+        top = d["repos"][0] if d.get("repos") else {}
+        top_name = top.get("name", "")
+        top_short = top_name.split("/")[-1] if "/" in top_name else top_name
+        stars = top.get("stars_today", "")
+        count = len(d.get("repos", []))
+        
+        cards.append(
+            f'<a href="posts/{date}.html" class="post-card">'
+            f'<div class="post-card-left">'
+            f'<span class="post-card-date">{_html.escape(date_display)}</span>'
+            f'<span class="post-card-meta"><span>📦 {count} 个项目</span></span>'
+            f'</div>'
+            f'<div class="post-card-right">'
+            f'<span class="post-card-repo">{_html.escape(top_short) if top_short else "—"}</span>'
+            f'<span class="post-card-stars">{stars}</span>'
+            f'</div>'
+            f'</a>'
+        )
+    
+    # Read template and fill
+    with open(INDEX_TEMPLATE, "r") as f:
+        html = f.read()
+    
+    html = html.replace("{{post_count}}", str(post_count))
+    html = html.replace("{{total_repos}}", str(total_repos))
+    html = html.replace("{{top_stars}}", top_stars or "—")
+    html = html.replace("{{post_cards}}", "\n    ".join(cards))
+    
+    with open(INDEX_TEMPLATE, "w") as f:
+        f.write(html)
+    
+    print(f"🌐 Generated index.html with {post_count} post cards")
+    
+    # Generate per-post HTML pages
+    for d in all_posts:
+        _generate_post_html(d)
+
+
+def _generate_post_html(data):
+    """Generate a standalone HTML page for a single blog post."""
+    import html as _html
+    
+    SITE_DIR = OUTPUT_DIR.parent
+    date = data["date"]
+    date_display = _format_date_cn(date)
+    blog_md = data.get("blog_md", "")
+    
+    # Simple markdown-to-HTML conversion (no external lib needed)
+    blog_html = _md_to_html(blog_md)
+    
+    page = f'''<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GitHub 日报 {date} — GH Trend Digest</title>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+
+<nav class="nav">
+  <div class="nav-inner">
+    <a href="../" class="logo">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none">
+        <circle cx="12" cy="12" r="11" stroke="currentColor" stroke-width="2"/>
+        <path d="M8 12h8M12 8v8" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+      </svg>
+      <span>GH Trend Digest</span>
+    </a>
+    <a href="../" class="nav-link">← 返回首页</a>
+  </div>
+</nav>
+
+<main class="content" style="padding-top:32px;">
+  <a href="../" class="btn-back">← 返回列表</a>
+  <div class="detail-date" style="margin-top:16px;">📅 {_html.escape(date_display)}</div>
+  <div class="detail-content" style="margin-top:24px;">
+    {blog_html}
+  </div>
+</main>
+
+<p style="text-align:center;color:var(--text-quaternary);font-size:13px;padding:48px 24px;">
+  🤖 自动生成 · 数据来源 <a href="https://github.com/trending">GitHub Trending</a>
+</p>
+
+</body>
+</html>'''
+    
+    post_path = OUTPUT_DIR / f"{date}.html"
+    with open(post_path, "w") as f:
+        f.write(page)
+
+
+def _md_to_html(md: str) -> str:
+    """Minimal markdown-to-HTML converter. Handles the common patterns our blog uses."""
+    import html as _html
+    import re
+    
+    lines = md.split("\n")
+    out = []
+    in_hr = False
+    
+    for line in lines:
+        # Horizontal rule
+        if line.strip() == "---":
+            out.append("<hr>")
+            continue
+        
+        # Headings
+        if line.startswith("### "):
+            out.append(f"<h3>{_html.escape(line[4:])}</h3>")
+            continue
+        if line.startswith("## "):
+            out.append(f"<h2>{_html.escape(line[3:])}</h2>")
+            continue
+        if line.startswith("# "):
+            out.append(f"<h1>{_html.escape(line[2:])}</h1>")
+            continue
+        
+        # Blockquote
+        if line.startswith("> "):
+            out.append(f"<blockquote>{_format_inline(line[2:])}</blockquote>")
+            continue
+        
+        # Empty line
+        if not line.strip():
+            out.append("")
+            continue
+        
+        # Regular paragraph
+        out.append(f"<p>{_format_inline(line)}</p>")
+    
+    return "\n".join(out)
+
+
+def _format_inline(text: str) -> str:
+    """Format inline markdown: bold, italic, code, links, emoji."""
+    import html as _html
+    import re
+    
+    t = _html.escape(text)
+    
+    # Inline code: `code`
+    t = re.sub(r"`([^`]+)`", r'<code>\1</code>', t)
+    
+    # Bold: **text**
+    t = re.sub(r'\*\*(.+?)\*\*', r'<strong>\1</strong>', t)
+    
+    # Italic: *text* (but not **)
+    t = re.sub(r'(?<!\*)\*(?!\*)(.+?)(?<!\*)\*(?!\*)', r'<em>\1</em>', t)
+    
+    # Links: [text](url)
+    t = re.sub(r'\[([^\]]+)\]\(([^)]+)\)', r'<a href="\2">\1</a>', t)
+    
+    # Images: ![alt](url)
+    t = re.sub(r'!\[([^\]]*)\]\(([^)]+)\)', r'<img src="\2" alt="\1">', t)
+    
+    return t
+
+
+def _parse_star_num(s: str) -> int:
+    """Parse '2,123 stars today' -> 2123"""
+    import re
+    m = re.search(r'[\d,]+', s)
+    if m:
+        return int(m.group().replace(",", ""))
+    return 0
+
+
+def _format_date_cn(date_str: str) -> str:
+    """Format YYYY-MM-DD to Chinese date string."""
+    from datetime import datetime
+    d = datetime.strptime(date_str, "%Y-%m-%d")
+    weekdays = ["周日", "周一", "周二", "周三", "周四", "周五", "周六"]
+    wd = weekdays[d.weekday()]
+    return f"{d.year}年{d.month:02d}月{d.day:02d}日 {wd}"
 
 
 if __name__ == "__main__":

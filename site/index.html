@@ -6,12 +6,10 @@
 <title>GitHub Trend Digest — 每日趋势·幽默解读</title>
 <meta name="description" content="每天从 GitHub Trending 抓取热门项目，用幽默的风格解读技术趋势。纯自动化，纯娱乐。">
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
-<script src="js/marked.min.js"></script>
 <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
 
-<!-- Navigation -->
 <nav class="nav">
   <div class="nav-inner">
     <a href="/" class="logo">
@@ -23,12 +21,11 @@
     </a>
     <div class="nav-links">
       <a href="https://github.com/trending" target="_blank" class="nav-link">GitHub Trending ↗</a>
-      <span id="post-count" class="nav-count"></span>
+      <span class="nav-count">1 篇</span>
     </div>
   </div>
 </nav>
 
-<!-- Hero -->
 <header class="hero">
   <div class="hero-inner">
     <div class="hero-badge">
@@ -40,52 +37,21 @@
       每天自动抓取 GitHub Trending，用幽默的视角解读技术潮流。<br>
       没有 AI 生成的废话，只有真实数据和真心段子。
     </p>
-    <div class="hero-stats" id="hero-stats">
-      <div class="stat"><span class="stat-num">—</span><span class="stat-label">已收录</span></div>
-      <div class="stat"><span class="stat-num">—</span><span class="stat-label">热门项目</span></div>
-      <div class="stat"><span class="stat-num">—</span><span class="stat-label">今日之星</span></div>
+    <div class="hero-stats">
+      <div class="stat"><span class="stat-num">1</span><span class="stat-label">已收录</span></div>
+      <div class="stat"><span class="stat-num">19</span><span class="stat-label">热门项目</span></div>
+      <div class="stat"><span class="stat-num">674 stars today</span><span class="stat-label">最高日星</span></div>
     </div>
   </div>
 </header>
 
-<!-- Content -->
 <main class="content">
-  <!-- Loading state -->
-  <div id="loading" class="loading">
-    <div class="loading-spinner"></div>
-    <p>加载中...</p>
-  </div>
-
-  <!-- Post list -->
   <div class="section-label">📰 往期日报</div>
-  <section id="post-list" class="post-list"></section>
-
-  <!-- Post detail (hidden by default) -->
-  <article id="post-detail" class="post-detail hidden"></article>
-
-  <!-- Empty state -->
-  <div id="empty-state" class="empty-state hidden">
-    <div class="empty-icon">📭</div>
-    <h2>还没有文章</h2>
-    <p>数据正在路上，请稍后再来。</p>
-  </div>
-
-  <!-- Error state -->
-  <div id="error-state" class="error-state hidden">
-    <div class="empty-icon">⚠️</div>
-    <h2>加载失败</h2>
-    <p id="error-msg"></p>
-  </div>
+  <section class="post-list">
+    <a href="posts/2026-05-21.html" class="post-card"><div class="post-card-left"><span class="post-card-date">2026年05月21日 周三</span><span class="post-card-meta"><span>📦 19 个项目</span></span></div><div class="post-card-right"><span class="post-card-repo">claude-plugins-official</span><span class="post-card-stars">674 stars today</span></div></a>
+  </section>
+  <p class="footer-meta" style="text-align:center;margin-top:48px;">🤖 每日 00:30 UTC 自动更新 · 数据来源 <a href="https://github.com/trending">GitHub Trending</a></p>
 </main>
 
-<!-- Footer -->
-<footer class="footer">
-  <div class="footer-inner">
-    <p>数据来源 <a href="https://github.com/trending">GitHub Trending</a> · 由 <a href="https://github.com">GH Trend Digest</a> 自动生成</p>
-    <p class="footer-meta">🤖 幽默感如有冒犯，纯属巧合。代码如有 bug，那是 feature。</p>
-  </div>
-</footer>
-
-<script src="js/main.js"></script>
 </body>
 </html>

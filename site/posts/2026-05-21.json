@@ -2,31 +2,22 @@
   "date": "2026-05-21",
   "repos": [
     {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "lang": "Python",
+      "stars_today": "674 stars today",
+      "total_stars": "21,236",
+      "forks": "2,575"
+    },
+    {
       "name": "colbymchenry/codegraph",
       "url": "https://github.com/colbymchenry/codegraph",
       "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "lang": "TypeScript",
       "stars_today": "2,123 stars today",
-      "total_stars": "11,664",
-      "forks": "694"
-    },
-    {
-      "name": "Imbad0202/academic-research-skills",
-      "url": "https://github.com/Imbad0202/academic-research-skills",
-      "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
-      "lang": "Python",
-      "stars_today": "1,667 stars today",
-      "total_stars": "17,536",
-      "forks": "1,512"
-    },
-    {
-      "name": "tinyhumansai/openhuman",
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "desc": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "lang": "Rust",
-      "stars_today": "3,394 stars today",
-      "total_stars": "24,342",
-      "forks": "2,183"
+      "total_stars": "11,959",
+      "forks": "706"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
@@ -34,35 +25,17 @@
       "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "lang": "Unknown",
       "stars_today": "2,679 stars today",
-      "total_stars": "142,083",
-      "forks": "14,580"
+      "total_stars": "142,277",
+      "forks": "14,595"
     },
     {
-      "name": "rohitg00/ai-engineering-from-scratch",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "desc": "Learn it. Build it. Ship it for others.",
-      "lang": "Python",
-      "stars_today": "765 stars today",
-      "total_stars": "10,221",
-      "forks": "2,034"
-    },
-    {
-      "name": "HKUDS/CLI-Anything",
-      "url": "https://github.com/HKUDS/CLI-Anything",
-      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
-      "lang": "Python",
-      "stars_today": "890 stars today",
-      "total_stars": "38,830",
-      "forks": "3,690"
-    },
-    {
-      "name": "can1357/oh-my-pi",
-      "url": "https://github.com/can1357/oh-my-pi",
-      "desc": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
-      "lang": "TypeScript",
-      "stars_today": "270 stars today",
-      "total_stars": "5,658",
-      "forks": "466"
+      "name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "desc": "Repository for skills to assist AI coding agents with .NET and C#",
+      "lang": "C#",
+      "stars_today": "96 stars today",
+      "total_stars": "2,016",
+      "forks": "166"
     },
     {
       "name": "obra/superpowers",
@@ -70,26 +43,17 @@
       "desc": "An agentic skills framework & software development methodology that works.",
       "lang": "Shell",
       "stars_today": "1,743 stars today",
-      "total_stars": "200,870",
-      "forks": "17,899"
+      "total_stars": "200,988",
+      "forks": "17,908"
     },
     {
-      "name": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "name": "HKUDS/CLI-Anything",
+      "url": "https://github.com/HKUDS/CLI-Anything",
+      "desc": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "lang": "Python",
-      "stars_today": "674 stars today",
-      "total_stars": "21,042",
-      "forks": "2,571"
-    },
-    {
-      "name": "msitarzewski/agency-agents",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "lang": "Shell",
-      "stars_today": "1,636 stars today",
-      "total_stars": "103,251",
-      "forks": "17,001"
+      "stars_today": "890 stars today",
+      "total_stars": "38,867",
+      "forks": "3,694"
     },
     {
       "name": "rmyndharis/OpenWA",
@@ -97,8 +61,80 @@
       "desc": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
       "lang": "TypeScript",
       "stars_today": "741 stars today",
-      "total_stars": "5,116",
-      "forks": "1,029"
+      "total_stars": "5,155",
+      "forks": "1,043"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "desc": "Chrome DevTools for coding agents",
+      "lang": "TypeScript",
+      "stars_today": "132 stars today",
+      "total_stars": "40,278",
+      "forks": "2,564"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_today": "765 stars today",
+      "total_stars": "10,303",
+      "forks": "2,053"
+    },
+    {
+      "name": "teng-lin/notebooklm-py",
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "desc": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+      "lang": "Python",
+      "stars_today": "182 stars today",
+      "total_stars": "14,210",
+      "forks": "1,979"
+    },
+    {
+      "name": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "desc": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
+      "lang": "TypeScript",
+      "stars_today": "270 stars today",
+      "total_stars": "5,683",
+      "forks": "469"
+    },
+    {
+      "name": "antoinezambelli/forge",
+      "url": "https://github.com/antoinezambelli/forge",
+      "desc": "A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows",
+      "lang": "Python",
+      "stars_today": "449 stars today",
+      "total_stars": "1,330",
+      "forks": "66"
+    },
+    {
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "desc": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "lang": "Go",
+      "stars_today": "511 stars today",
+      "total_stars": "30,344",
+      "forks": "3,701"
+    },
+    {
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "desc": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "lang": "Python",
+      "stars_today": "1,667 stars today",
+      "total_stars": "17,665",
+      "forks": "1,523"
+    },
+    {
+      "name": "trimstray/the-book-of-secret-knowledge",
+      "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+      "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+      "lang": "Unknown",
+      "stars_today": "429 stars today",
+      "total_stars": "221,983",
+      "forks": "13,284"
     },
     {
       "name": "truelockmc/streambert",
@@ -106,64 +142,37 @@
       "desc": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
       "lang": "JavaScript",
       "stars_today": "582 stars today",
-      "total_stars": "3,478",
+      "total_stars": "3,544",
       "forks": "275"
     },
     {
-      "name": "opentoonz/opentoonz",
-      "url": "https://github.com/opentoonz/opentoonz",
-      "desc": "OpenToonz - An open-source full-featured 2D animation creation software",
-      "lang": "C++",
-      "stars_today": "236 stars today",
-      "total_stars": "6,535",
-      "forks": "744"
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "lang": "Shell",
+      "stars_today": "1,636 stars today",
+      "total_stars": "103,324",
+      "forks": "17,009"
     },
     {
-      "name": "zakirullin/files.md",
-      "url": "https://github.com/zakirullin/files.md",
-      "desc": "🌱 Private, quiet space for thinking. A simple app for your .md files.",
+      "name": "alireza0/s-ui",
+      "url": "https://github.com/alireza0/s-ui",
+      "desc": "An advanced Web Panel • Built for SagerNet/Sing-Box",
       "lang": "Go",
-      "stars_today": "429 stars today",
-      "total_stars": "2,396",
-      "forks": "55"
+      "stars_today": "25 stars today",
+      "total_stars": "8,867",
+      "forks": "1,493"
     },
     {
-      "name": "rohitg00/agentmemory",
-      "url": "https://github.com/rohitg00/agentmemory",
-      "desc": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "desc": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "lang": "TypeScript",
-      "stars_today": "1,080 stars today",
-      "total_stars": "15,495",
-      "forks": "1,284"
-    },
-    {
-      "name": "ggml-org/llama.cpp",
-      "url": "https://github.com/ggml-org/llama.cpp",
-      "desc": "LLM inference in C/C++",
-      "lang": "C++",
-      "stars_today": "309 stars today",
-      "total_stars": "112,035",
-      "forks": "18,542"
-    },
-    {
-      "name": "HKUDS/ViMax",
-      "url": "https://github.com/HKUDS/ViMax",
-      "desc": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
-      "lang": "Python",
-      "stars_today": "674 stars today",
-      "total_stars": "6,333",
-      "forks": "1,008"
-    },
-    {
-      "name": "FareedKhan-dev/train-llm-from-scratch",
-      "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
-      "desc": "A straightforward method for training your LLM, from downloading data to generating text.",
-      "lang": "Jupyter Notebook",
-      "stars_today": "168 stars today",
-      "total_stars": "1,474",
-      "forks": "243"
+      "stars_today": "188 stars today",
+      "total_stars": "16,040",
+      "forks": "1,521"
     }
   ],
-  "blog_md": "# 🚀 今日 GitHub 热搜：codegraph 霸榜，开发者集体失眠\n\n> 📅 2026-05-21  |  🔍 共收录 18 个热门项目\n\n警告：以下内容可能导致大量 star 行为、clone 冲动以及「我也能做」的幻觉。请谨慎阅读 ⚠️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 5 | **TypeScript**: 4 | **Shell**: 2 | **C++**: 2 | **Rust**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. colbymchenry/codegraph\n\n**colbymchenry/codegraph** — Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — ...  2,123 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 2,123 stars today | 📦 总星 11,664 | 🍴 694 | 💻 TypeScript\n[🔗 查看项目](https://github.com/colbymchenry/codegraph)\n\n### 2. Imbad0202/academic-research-skills\n\n**Imbad0202/academic-research-skills** — Python 写的，当然好（不是）。Academic Research Skills for Claude Code: research → write →...  1,667 stars today 人表示「先 star 为敬」。\n\n⭐ 1,667 stars today | 📦 总星 17,536 | 🍴 1,512 | 💻 Python\n[🔗 查看项目](https://github.com/Imbad0202/academic-research-skills)\n\n### 3. tinyhumansai/openhuman\n\n**tinyhumansai/openhuman** 今天拿了 3,394 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 3,394 stars today | 📦 总星 24,342 | 🍴 2,183 | 💻 Rust\n[🔗 查看项目](https://github.com/tinyhumansai/openhuman)\n\n### 4. multica-ai/andrej-karpathy-skills\n\n**multica-ai/andrej-karpathy-skills** — A single CLAUDE.md file to improve Claude Code behavior, derived from ... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 2,679 stars today | 📦 总星 142,083 | 🍴 14,580 | 💻 Unknown\n[🔗 查看项目](https://github.com/multica-ai/andrej-karpathy-skills)\n\n### 5. rohitg00/ai-engineering-from-scratch\n\n**rohitg00/ai-engineering-from-scratch** 今天拿了 765 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 765 stars today | 📦 总星 10,221 | 🍴 2,034 | 💻 Python\n[🔗 查看项目](https://github.com/rohitg00/ai-engineering-from-scratch)\n\n### 6. HKUDS/CLI-Anything\n\n**HKUDS/CLI-Anything** — 用 Python 写就。今天获得了 890 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 890 stars today | 📦 总星 38,830 | 🍴 3,690 | 💻 Python\n[🔗 查看项目](https://github.com/HKUDS/CLI-Anything)\n\n### 7. can1357/oh-my-pi\n\n**can1357/oh-my-pi** — ⌥ AI Coding agent for the terminal — hash-anchored edits, op...  听起来像个周末项目，但它已经有 5,658 总星了。周末项目，认真的吗？\n\n⭐ 270 stars today | 📦 总星 5,658 | 🍴 466 | 💻 TypeScript\n[🔗 查看项目](https://github.com/can1357/oh-my-pi)\n\n### 8. obra/superpowers\n\n**obra/superpowers** — An agentic skills framework & software development methodology that works....  1,743 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,743 stars today | 📦 总星 200,870 | 🍴 17,899 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 9. anthropics/claude-plugins-official\n\n**anthropics/claude-plugins-official** — Official, Anthropic-managed directory of high quality Claude Code Plugins....  674 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 674 stars today | 📦 总星 21,042 | 🍴 2,571 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/claude-plugins-official)\n\n### 10. msitarzewski/agency-agents\n\n**msitarzewski/agency-agents** — A complete AI agency at your fingertips - From frontend wizards to Red... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,636 stars today | 📦 总星 103,251 | 🍴 17,001 | 💻 Shell\n[🔗 查看项目](https://github.com/msitarzewski/agency-agents)\n\n---\n\n## 🫡 荣誉提名\n\n- **rmyndharis/OpenWA** — Free, Open Source, Self-Hosted WhatsApp API Gateway  ⭐ 741 stars today\n- **truelockmc/streambert** — A cross-platform Electron Desktop App to stream and download any Movie, TV Serie...  ⭐ 582 stars today\n- **opentoonz/opentoonz** — OpenToonz - An open-source full-featured 2D animation creation software  ⭐ 236 stars today\n- **zakirullin/files.md** — 🌱 Private, quiet space for thinking. A simple app for your .md files.  ⭐ 429 stars today\n- **rohitg00/agentmemory** — #1 Persistent memory for AI coding agents based on real-world benchmarks  ⭐ 1,080 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
-  "generated_at": "2026-05-21T10:40:29.006489+00:00"
+  "blog_md": "# 🔥 GitHub 日报 2026-05-21：今天的代码，明天的 bug\n\n> 📅 2026-05-21  |  🔍 共收录 19 个热门项目\n\n起床上班第一件事：打开电脑。第二件事：打开 GitHub Trending 看看又有多少大牛做出了你一年前的 TODO 项目 😭\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 6 | **TypeScript**: 5 | **Unknown**: 2 | **Shell**: 2 | **Go**: 2\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. anthropics/claude-plugins-official\n\n**anthropics/claude-plugins-official** — Official, Anthropic-managed directory of high quality Claude...  听起来像个周末项目，但它已经有 21,236 总星了。周末项目，认真的吗？\n\n⭐ 674 stars today | 📦 总星 21,236 | 🍴 2,575 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/claude-plugins-official)\n\n### 2. colbymchenry/codegraph\n\n**colbymchenry/codegraph** — 用 TypeScript 写就。今天获得了 2,123 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 2,123 stars today | 📦 总星 11,959 | 🍴 706 | 💻 TypeScript\n[🔗 查看项目](https://github.com/colbymchenry/codegraph)\n\n### 3. multica-ai/andrej-karpathy-skills\n\n**multica-ai/andrej-karpathy-skills** — 如果你还没 star，那你可能错过了今天的船票。2,679 stars today 人已经上船了。\n\n⭐ 2,679 stars today | 📦 总星 142,277 | 🍴 14,595 | 💻 Unknown\n[🔗 查看项目](https://github.com/multica-ai/andrej-karpathy-skills)\n\n### 4. dotnet/skills\n\n**dotnet/skills** — 如果你还没 star，那你可能错过了今天的船票。96 stars today 人已经上船了。\n\n⭐ 96 stars today | 📦 总星 2,016 | 🍴 166 | 💻 C#\n[🔗 查看项目](https://github.com/dotnet/skills)\n\n### 5. obra/superpowers\n\n**obra/superpowers** — 如果你还没 star，那你可能错过了今天的船票。1,743 stars today 人已经上船了。\n\n⭐ 1,743 stars today | 📦 总星 200,988 | 🍴 17,908 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 6. HKUDS/CLI-Anything\n\n**HKUDS/CLI-Anything** — 如果你还没 star，那你可能错过了今天的船票。890 stars today 人已经上船了。\n\n⭐ 890 stars today | 📦 总星 38,867 | 🍴 3,694 | 💻 Python\n[🔗 查看项目](https://github.com/HKUDS/CLI-Anything)\n\n### 7. rmyndharis/OpenWA\n\n**rmyndharis/OpenWA** — Free, Open Source, Self-Hosted WhatsApp API Gateway...  741 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 741 stars today | 📦 总星 5,155 | 🍴 1,043 | 💻 TypeScript\n[🔗 查看项目](https://github.com/rmyndharis/OpenWA)\n\n### 8. ChromeDevTools/chrome-devtools-mcp\n\n**ChromeDevTools/chrome-devtools-mcp** — 用 TypeScript 写就。今天获得了 132 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 132 stars today | 📦 总星 40,278 | 🍴 2,564 | 💻 TypeScript\n[🔗 查看项目](https://github.com/ChromeDevTools/chrome-devtools-mcp)\n\n### 9. rohitg00/ai-engineering-from-scratch\n\n**rohitg00/ai-engineering-from-scratch** — Learn it. Build it. Ship it for others.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 765 stars today | 📦 总星 10,303 | 🍴 2,053 | 💻 Python\n[🔗 查看项目](https://github.com/rohitg00/ai-engineering-from-scratch)\n\n### 10. teng-lin/notebooklm-py\n\n**teng-lin/notebooklm-py** — Unofficial Python API and agentic skill for Google NotebookLM. Full pr... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 182 stars today | 📦 总星 14,210 | 🍴 1,979 | 💻 Python\n[🔗 查看项目](https://github.com/teng-lin/notebooklm-py)\n\n---\n\n## 🫡 荣誉提名\n\n- **can1357/oh-my-pi** — ⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness...  ⭐ 270 stars today\n- **antoinezambelli/forge** — A Python framework for self-hosted LLM tool-calling and multi-step agentic workf...  ⭐ 449 stars today\n- **multica-ai/multica** — The open-source managed agents platform. Turn coding agents into real teammates ...  ⭐ 511 stars today\n- **Imbad0202/academic-research-skills** — Academic Research Skills for Claude Code: research → write → review → revise → f...  ⭐ 1,667 stars today\n- **trimstray/the-book-of-secret-knowledge** — A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners,...  ⭐ 429 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-05-21T12:39:08.191836+00:00"
 }
