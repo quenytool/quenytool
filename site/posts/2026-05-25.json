@@ -1,0 +1,151 @@
+{
+  "date": "2026-05-25",
+  "repos": [
+    {
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "desc": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "lang": "TypeScript",
+      "stars_today": "3,999 stars today",
+      "total_stars": "27,200",
+      "forks": "2,319"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_today": "1,853 stars today",
+      "total_stars": "16,686",
+      "forks": "2,922"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "lang": "Python",
+      "stars_today": "1,173 stars today",
+      "total_stars": "27,369",
+      "forks": "2,912"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_today": "550 stars today",
+      "total_stars": "14,242",
+      "forks": "1,758"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "lang": "Unknown",
+      "stars_today": "2,551 stars today",
+      "total_stars": "152,698",
+      "forks": "15,649"
+    },
+    {
+      "name": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "desc": "AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods",
+      "lang": "TypeScript",
+      "stars_today": "456 stars today",
+      "total_stars": "54,082",
+      "forks": "6,451"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "desc": "Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported)",
+      "lang": "Python",
+      "stars_today": "553 stars today",
+      "total_stars": "29,258",
+      "forks": "4,395"
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "lang": "TypeScript",
+      "stars_today": "3,003 stars today",
+      "total_stars": "22,888",
+      "forks": "1,263"
+    },
+    {
+      "name": "multica-ai/multica",
+      "url": "https://github.com/multica-ai/multica",
+      "desc": "The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.",
+      "lang": "TypeScript",
+      "stars_today": "585 stars today",
+      "total_stars": "32,653",
+      "forks": "3,913"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars_today": "106 stars today",
+      "total_stars": "25,849",
+      "forks": "4,498"
+    },
+    {
+      "name": "manaflow-ai/cmux",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "desc": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+      "lang": "Swift",
+      "stars_today": "696 stars today",
+      "total_stars": "19,115",
+      "forks": "1,451"
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "desc": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "lang": "Python",
+      "stars_today": "197 stars today",
+      "total_stars": "62,266",
+      "forks": "9,736"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "desc": "Master programming by recreating your favorite technologies from scratch.",
+      "lang": "Markdown",
+      "stars_today": "550 stars today",
+      "total_stars": "504,373",
+      "forks": "47,838"
+    },
+    {
+      "name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "desc": "Repository for skills to assist AI coding agents with .NET and C#",
+      "lang": "C#",
+      "stars_today": "183 stars today",
+      "total_stars": "2,999",
+      "forks": "221"
+    },
+    {
+      "name": "blakeblackshear/frigate",
+      "url": "https://github.com/blakeblackshear/frigate",
+      "desc": "NVR with realtime local object detection for IP cameras",
+      "lang": "TypeScript",
+      "stars_today": "181 stars today",
+      "total_stars": "32,919",
+      "forks": "3,183"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "lang": "Python",
+      "stars_today": "930 stars today",
+      "total_stars": "8,529",
+      "forks": "1,069"
+    }
+  ],
+  "blog_md": "# 📡 GitHub 雷达 2026-05-25：Understand-Anything 带着 3,999 stars today 颗星杀过来了\n\n> 📅 2026-05-25  |  🔍 共收录 16 个热门项目\n\n众所周知，GitHub Trending 是程序员界的「今日头条」。今日头条播报开始 📢\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 7 | **TypeScript**: 5 | **Unknown**: 1 | **Swift**: 1 | **Markdown**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. Lum1104/Understand-Anything\n\n**Lum1104/Understand-Anything** 今天拿了 3,999 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 3,999 stars today | 📦 总星 27,200 | 🍴 2,319 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Lum1104/Understand-Anything)\n\n### 2. rohitg00/ai-engineering-from-scratch\n\n**rohitg00/ai-engineering-from-scratch** — 用 Python 写就。今天获得了 1,853 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 1,853 stars today | 📦 总星 16,686 | 🍴 2,922 | 💻 Python\n[🔗 查看项目](https://github.com/rohitg00/ai-engineering-from-scratch)\n\n### 3. anthropics/claude-plugins-official\n\n**anthropics/claude-plugins-official** — Python 写的，当然好（不是）。Official, Anthropic-managed directory of high quality Claude...  1,173 stars today 人表示「先 star 为敬」。\n\n⭐ 1,173 stars today | 📦 总星 27,369 | 🍴 2,912 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/claude-plugins-official)\n\n### 4. anthropics/knowledge-work-plugins\n\n**anthropics/knowledge-work-plugins** — Open source repository of plugins primarily intended for kno...  听起来像个周末项目，但它已经有 14,242 总星了。周末项目，认真的吗？\n\n⭐ 550 stars today | 📦 总星 14,242 | 🍴 1,758 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/knowledge-work-plugins)\n\n### 5. multica-ai/andrej-karpathy-skills\n\n**multica-ai/andrej-karpathy-skills** — A single CLAUDE.md file to improve Claude Code behavior, der...  听起来像个周末项目，但它已经有 152,698 总星了。周末项目，认真的吗？\n\n⭐ 2,551 stars today | 📦 总星 152,698 | 🍴 15,649 | 💻 Unknown\n[🔗 查看项目](https://github.com/multica-ai/andrej-karpathy-skills)\n\n### 6. earendil-works/pi\n\n**earendil-works/pi** — TypeScript 写的，当然好（不是）。AI agent toolkit: coding agent CLI, unified LLM API, TUI & w...  456 stars today 人表示「先 star 为敬」。\n\n⭐ 456 stars today | 📦 总星 54,082 | 🍴 6,451 | 💻 TypeScript\n[🔗 查看项目](https://github.com/earendil-works/pi)\n\n### 7. Alishahryar1/free-claude-code\n\n**Alishahryar1/free-claude-code** — Use claude-code for free in the terminal, VSCode extension or discord like OpenC...  553 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 553 stars today | 📦 总星 29,258 | 🍴 4,395 | 💻 Python\n[🔗 查看项目](https://github.com/Alishahryar1/free-claude-code)\n\n### 8. colbymchenry/codegraph\n\n**colbymchenry/codegraph** — Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenC... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 3,003 stars today | 📦 总星 22,888 | 🍴 1,263 | 💻 TypeScript\n[🔗 查看项目](https://github.com/colbymchenry/codegraph)\n\n### 9. multica-ai/multica\n\n**multica-ai/multica** — 用 TypeScript 写就。今天获得了 585 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 585 stars today | 📦 总星 32,653 | 🍴 3,913 | 💻 TypeScript\n[🔗 查看项目](https://github.com/multica-ai/multica)\n\n### 10. shiyu-coder/Kronos\n\n**shiyu-coder/Kronos** — Kronos: A Foundation Model for the Language of Financial Markets... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 106 stars today | 📦 总星 25,849 | 🍴 4,498 | 💻 Python\n[🔗 查看项目](https://github.com/shiyu-coder/Kronos)\n\n---\n\n## 🫡 荣誉提名\n\n- **manaflow-ai/cmux** — Ghostty-based macOS terminal with vertical tabs and notifications for AI coding ...  ⭐ 696 stars today\n- **666ghj/MiroFish** — A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能...  ⭐ 197 stars today\n- **codecrafters-io/build-your-own-x** — Master programming by recreating your favorite technologies from scratch.  ⭐ 550 stars today\n- **dotnet/skills** — Repository for skills to assist AI coding agents with .NET and C#  ⭐ 183 stars today\n- **blakeblackshear/frigate** — NVR with realtime local object detection for IP cameras  ⭐ 181 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-05-25T05:01:09.077228+00:00"
+}
