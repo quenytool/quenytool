@@ -1,0 +1,160 @@
+{
+  "date": "2026-05-26",
+  "repos": [
+    {
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "desc": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "lang": "TypeScript",
+      "stars_today": "5,604 stars today",
+      "total_stars": "32,030",
+      "forks": "2,626"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_today": "1,441 stars today",
+      "total_stars": "15,745",
+      "forks": "1,892"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_today": "3,154 stars today",
+      "total_stars": "19,069",
+      "forks": "3,212"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "2,025 stars today",
+      "total_stars": "192,774",
+      "forks": "29,814"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "lang": "Python",
+      "stars_today": "1,004 stars today",
+      "total_stars": "9,409",
+      "forks": "1,145"
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "desc": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "lang": "TypeScript",
+      "stars_today": "3,161 stars today",
+      "total_stars": "25,790",
+      "forks": "1,433"
+    },
+    {
+      "name": "manaflow-ai/cmux",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "desc": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+      "lang": "Swift",
+      "stars_today": "603 stars today",
+      "total_stars": "19,584",
+      "forks": "1,478"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "desc": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "lang": "Unknown",
+      "stars_today": "2,749 stars today",
+      "total_stars": "155,411",
+      "forks": "15,938"
+    },
+    {
+      "name": "Fincept-Corporation/FinceptTerminal",
+      "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
+      "desc": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
+      "lang": "Python",
+      "stars_today": "317 stars today",
+      "total_stars": "23,961",
+      "forks": "3,293"
+    },
+    {
+      "name": "paperless-ngx/paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "desc": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "lang": "Python",
+      "stars_today": "176 stars today",
+      "total_stars": "41,404",
+      "forks": "2,749"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "lang": "Jupyter Notebook",
+      "stars_today": "141 stars today",
+      "total_stars": "44,114",
+      "forks": "5,053"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "lang": "Shell",
+      "stars_today": "264 stars today",
+      "total_stars": "20,000",
+      "forks": "1,662"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "desc": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "lang": "TypeScript",
+      "stars_today": "62 stars today",
+      "total_stars": "39,830",
+      "forks": "4,025"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars_today": "245 stars today",
+      "total_stars": "26,085",
+      "forks": "4,525"
+    },
+    {
+      "name": "Axorax/awesome-free-apps",
+      "url": "https://github.com/Axorax/awesome-free-apps",
+      "desc": "Curated list of the best free apps for PC and mobile",
+      "lang": "JavaScript",
+      "stars_today": "192 stars today",
+      "total_stars": "4,667",
+      "forks": "238"
+    },
+    {
+      "name": "hardikpandya/stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "desc": "A skill file for removing AI tells from prose",
+      "lang": "Unknown",
+      "stars_today": "345 stars today",
+      "total_stars": "4,523",
+      "forks": "387"
+    },
+    {
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "desc": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "lang": "TypeScript",
+      "stars_today": "640 stars today",
+      "total_stars": "102,668",
+      "forks": "15,314"
+    }
+  ],
+  "blog_md": "# 🚀 今日 GitHub 热搜：Understand-Anything 霸榜，开发者集体失眠\n\n> 📅 2026-05-26  |  🔍 共收录 17 个热门项目\n\n今日 GitHub 浓度检测完毕。以下是高浓度项目报告 ☕️\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 6 | **TypeScript**: 4 | **JavaScript**: 2 | **Unknown**: 2 | **Swift**: 1\n\n> Python 再次上榜。简单、优雅，唯一的问题是缩进错了会爆炸 🐍\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. Lum1104/Understand-Anything\n\n**Lum1104/Understand-Anything** — 如果你还没 star，那你可能错过了今天的船票。5,604 stars today 人已经上船了。\n\n⭐ 5,604 stars today | 📦 总星 32,030 | 🍴 2,626 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Lum1104/Understand-Anything)\n\n### 2. anthropics/knowledge-work-plugins\n\n**anthropics/knowledge-work-plugins** — Open source repository of plugins primarily intended for knowledge workers to us...  1,441 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,441 stars today | 📦 总星 15,745 | 🍴 1,892 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/knowledge-work-plugins)\n\n### 3. rohitg00/ai-engineering-from-scratch\n\n**rohitg00/ai-engineering-from-scratch** — 如果你还没 star，那你可能错过了今天的船票。3,154 stars today 人已经上船了。\n\n⭐ 3,154 stars today | 📦 总星 19,069 | 🍴 3,212 | 💻 Python\n[🔗 查看项目](https://github.com/rohitg00/ai-engineering-from-scratch)\n\n### 4. affaan-m/ECC\n\n**affaan-m/ECC** 今天拿了 2,025 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 2,025 stars today | 📦 总星 192,774 | 🍴 29,814 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n### 5. mukul975/Anthropic-Cybersecurity-Skills\n\n**mukul975/Anthropic-Cybersecurity-Skills** 今天拿了 1,004 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,004 stars today | 📦 总星 9,409 | 🍴 1,145 | 💻 Python\n[🔗 查看项目](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)\n\n### 6. colbymchenry/codegraph\n\n**colbymchenry/codegraph** — Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and H...  3,161 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 3,161 stars today | 📦 总星 25,790 | 🍴 1,433 | 💻 TypeScript\n[🔗 查看项目](https://github.com/colbymchenry/codegraph)\n\n### 7. manaflow-ai/cmux\n\n**manaflow-ai/cmux** — Ghostty-based macOS terminal with vertical tabs and notifications for ... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 603 stars today | 📦 总星 19,584 | 🍴 1,478 | 💻 Swift\n[🔗 查看项目](https://github.com/manaflow-ai/cmux)\n\n### 8. multica-ai/andrej-karpathy-skills\n\n**multica-ai/andrej-karpathy-skills** — 如果你还没 star，那你可能错过了今天的船票。2,749 stars today 人已经上船了。\n\n⭐ 2,749 stars today | 📦 总星 155,411 | 🍴 15,938 | 💻 Unknown\n[🔗 查看项目](https://github.com/multica-ai/andrej-karpathy-skills)\n\n### 9. Fincept-Corporation/FinceptTerminal\n\n**Fincept-Corporation/FinceptTerminal** — Python 写的，当然好（不是）。FinceptTerminal is a modern finance application offering adv...  317 stars today 人表示「先 star 为敬」。\n\n⭐ 317 stars today | 📦 总星 23,961 | 🍴 3,293 | 💻 Python\n[🔗 查看项目](https://github.com/Fincept-Corporation/FinceptTerminal)\n\n### 10. paperless-ngx/paperless-ngx\n\n**paperless-ngx/paperless-ngx** 今天拿了 176 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 176 stars today | 📦 总星 41,404 | 🍴 2,749 | 💻 Python\n[🔗 查看项目](https://github.com/paperless-ngx/paperless-ngx)\n\n---\n\n## 🫡 荣誉提名\n\n- **anthropics/claude-cookbooks** — A collection of notebooks/recipes showcasing some fun and effective ways of usin...  ⭐ 141 stars today\n- **Leonxlnx/taste-skill** — Taste-Skill - gives your AI good taste. stops the AI from generating boring, gen...  ⭐ 264 stars today\n- **moeru-ai/airi** — 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber l...  ⭐ 62 stars today\n- **shiyu-coder/Kronos** — Kronos: A Foundation Model for the Language of Financial Markets  ⭐ 245 stars today\n- **Axorax/awesome-free-apps** — Curated list of the best free apps for PC and mobile  ⭐ 192 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-05-26T04:42:17.538917+00:00"
+}
