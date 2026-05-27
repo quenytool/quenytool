@@ -1,0 +1,133 @@
+{
+  "date": "2026-05-27",
+  "repos": [
+    {
+      "name": "Lum1104/Understand-Anything",
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "desc": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "lang": "TypeScript",
+      "stars_today": "4,697 stars today",
+      "total_stars": "36,657",
+      "forks": "2,938"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "1,915 stars today",
+      "total_stars": "194,756",
+      "forks": "30,010"
+    },
+    {
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "desc": "Learn it. Build it. Ship it for others.",
+      "lang": "Python",
+      "stars_today": "2,155 stars today",
+      "total_stars": "21,060",
+      "forks": "3,492"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_today": "1,718 stars today",
+      "total_stars": "16,798",
+      "forks": "1,966"
+    },
+    {
+      "name": "mukul975/Anthropic-Cybersecurity-Skills",
+      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+      "desc": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND & NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI & 20+ platforms · 26 security domains · Apache 2.0",
+      "lang": "Python",
+      "stars_today": "880 stars today",
+      "total_stars": "10,254",
+      "forks": "1,201"
+    },
+    {
+      "name": "hardikpandya/stop-slop",
+      "url": "https://github.com/hardikpandya/stop-slop",
+      "desc": "A skill file for removing AI tells from prose",
+      "lang": "Unknown",
+      "stars_today": "539 stars today",
+      "total_stars": "5,132",
+      "forks": "405"
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "desc": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
+      "lang": "Shell",
+      "stars_today": "1,430 stars today",
+      "total_stars": "22,360",
+      "forks": "1,770"
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
+      "desc": "DigitalPlat FreeDomain: Free Domain For Everyone",
+      "lang": "HTML",
+      "stars_today": "1,219 stars today",
+      "total_stars": "167,738",
+      "forks": "3,108"
+    },
+    {
+      "name": "jellyfin/jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "desc": "The Free Software Media System - Server Backend & API",
+      "lang": "C#",
+      "stars_today": "83 stars today",
+      "total_stars": "52,435",
+      "forks": "4,875"
+    },
+    {
+      "name": "Axorax/awesome-free-apps",
+      "url": "https://github.com/Axorax/awesome-free-apps",
+      "desc": "Curated list of the best free apps for PC and mobile",
+      "lang": "JavaScript",
+      "stars_today": "731 stars today",
+      "total_stars": "5,404",
+      "forks": "274"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "desc": "The open alternative to Salesforce, designed for AI.",
+      "lang": "TypeScript",
+      "stars_today": "216 stars today",
+      "total_stars": "46,950",
+      "forks": "6,662"
+    },
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "desc": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "lang": "TypeScript",
+      "stars_today": "156 stars today",
+      "total_stars": "12,241",
+      "forks": "1,634"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "lang": "TypeScript",
+      "stars_today": "352 stars today",
+      "total_stars": "78,800",
+      "forks": "6,776"
+    },
+    {
+      "name": "st-tech/ppf-contact-solver",
+      "url": "https://github.com/st-tech/ppf-contact-solver",
+      "desc": "A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.",
+      "lang": "Python",
+      "stars_today": "170 stars today",
+      "total_stars": "3,562",
+      "forks": "255"
+    }
+  ],
+  "blog_md": "# 📡 GitHub 雷达 2026-05-27：Understand-Anything 带着 4,697 stars today 颗星杀过来了\n\n> 📅 2026-05-27  |  🔍 共收录 14 个热门项目\n\n各位摸鱼选手请注意，今日 GitHub Trending 已更新。老板不在的时候看看正好 👀\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 4 | **Python**: 4 | **JavaScript**: 2 | **Unknown**: 1 | **Shell**: 1\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. Lum1104/Understand-Anything\n\n**Lum1104/Understand-Anything** — Graphs that teach > graphs that impress. Turn any code into an interactive knowl...  4,697 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 4,697 stars today | 📦 总星 36,657 | 🍴 2,938 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Lum1104/Understand-Anything)\n\n### 2. affaan-m/ECC\n\n**affaan-m/ECC** — 用 JavaScript 写就。今天获得了 1,915 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 1,915 stars today | 📦 总星 194,756 | 🍴 30,010 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n### 3. rohitg00/ai-engineering-from-scratch\n\n**rohitg00/ai-engineering-from-scratch** — 如果你还没 star，那你可能错过了今天的船票。2,155 stars today 人已经上船了。\n\n⭐ 2,155 stars today | 📦 总星 21,060 | 🍴 3,492 | 💻 Python\n[🔗 查看项目](https://github.com/rohitg00/ai-engineering-from-scratch)\n\n### 4. anthropics/knowledge-work-plugins\n\n**anthropics/knowledge-work-plugins** — Python 写的，当然好（不是）。Open source repository of plugins primarily intended for kno...  1,718 stars today 人表示「先 star 为敬」。\n\n⭐ 1,718 stars today | 📦 总星 16,798 | 🍴 1,966 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/knowledge-work-plugins)\n\n### 5. mukul975/Anthropic-Cybersecurity-Skills\n\n**mukul975/Anthropic-Cybersecurity-Skills** — 754 structured cybersecurity skills for AI agents · Mapped t...  听起来像个周末项目，但它已经有 10,254 总星了。周末项目，认真的吗？\n\n⭐ 880 stars today | 📦 总星 10,254 | 🍴 1,201 | 💻 Python\n[🔗 查看项目](https://github.com/mukul975/Anthropic-Cybersecurity-Skills)\n\n### 6. hardikpandya/stop-slop\n\n**hardikpandya/stop-slop** — A skill file for removing AI tells from prose...  539 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 539 stars today | 📦 总星 5,132 | 🍴 405 | 💻 Unknown\n[🔗 查看项目](https://github.com/hardikpandya/stop-slop)\n\n### 7. Leonxlnx/taste-skill\n\n**Leonxlnx/taste-skill** — Shell 写的，当然好（不是）。Taste-Skill - gives your AI good taste. stops the AI from ge...  1,430 stars today 人表示「先 star 为敬」。\n\n⭐ 1,430 stars today | 📦 总星 22,360 | 🍴 1,770 | 💻 Shell\n[🔗 查看项目](https://github.com/Leonxlnx/taste-skill)\n\n### 8. DigitalPlatDev/FreeDomain\n\n**DigitalPlatDev/FreeDomain** — DigitalPlat FreeDomain: Free Domain For Everyone...  听起来像个周末项目，但它已经有 167,738 总星了。周末项目，认真的吗？\n\n⭐ 1,219 stars today | 📦 总星 167,738 | 🍴 3,108 | 💻 HTML\n[🔗 查看项目](https://github.com/DigitalPlatDev/FreeDomain)\n\n### 9. jellyfin/jellyfin\n\n**jellyfin/jellyfin** — 如果你还没 star，那你可能错过了今天的船票。83 stars today 人已经上船了。\n\n⭐ 83 stars today | 📦 总星 52,435 | 🍴 4,875 | 💻 C#\n[🔗 查看项目](https://github.com/jellyfin/jellyfin)\n\n### 10. Axorax/awesome-free-apps\n\n**Axorax/awesome-free-apps** — Curated list of the best free apps for PC and mobile... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 731 stars today | 📦 总星 5,404 | 🍴 274 | 💻 JavaScript\n[🔗 查看项目](https://github.com/Axorax/awesome-free-apps)\n\n---\n\n## 🫡 荣誉提名\n\n- **twentyhq/twenty** — The open alternative to Salesforce, designed for AI.  ⭐ 216 stars today\n- **Open-Dev-Society/OpenStock** — OpenStock is an open-source alternative to expensive market platforms. Track rea...  ⭐ 156 stars today\n- **thedotmack/claude-mem** — Persistent Context Across Sessions for Every Agent – Captures everything your ag...  ⭐ 352 stars today\n- **st-tech/ppf-contact-solver** — A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and ...  ⭐ 170 stars today\n\n---\n\n以上就是今天的 GitHub 热搜。去 star 吧，反正你的 repo 列表已经 3000+ 了，不在乎多几个。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-05-27T04:54:42.819098+00:00"
+}
