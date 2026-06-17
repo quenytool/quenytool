@@ -1,0 +1,124 @@
+{
+  "date": "2026-06-17",
+  "repos": [
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "desc": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.",
+      "lang": "TypeScript",
+      "stars_today": "633 stars today",
+      "total_stars": "448,709",
+      "forks": "45,051"
+    },
+    {
+      "name": "swc-project/swc",
+      "url": "https://github.com/swc-project/swc",
+      "desc": "Rust-based platform for the Web",
+      "lang": "Rust",
+      "stars_today": "20 stars today",
+      "total_stars": "33,999",
+      "forks": "1,419"
+    },
+    {
+      "name": "teslamate-org/teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "desc": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "lang": "Elixir",
+      "stars_today": "215 stars today",
+      "total_stars": "8,438",
+      "forks": "960"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "desc": "Collection of publicly available IPTV channels from all over the world",
+      "lang": "TypeScript",
+      "stars_today": "1,197 stars today",
+      "total_stars": "124,362",
+      "forks": "6,722"
+    },
+    {
+      "name": "puppeteer/puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "desc": "JavaScript API for Chrome and Firefox",
+      "lang": "TypeScript",
+      "stars_today": "56 stars today",
+      "total_stars": "94,939",
+      "forks": "9,452"
+    },
+    {
+      "name": "meshery/meshery",
+      "url": "https://github.com/meshery/meshery",
+      "desc": "Meshery, the cloud native manager",
+      "lang": "TypeScript",
+      "stars_today": "228 stars today",
+      "total_stars": "10,886",
+      "forks": "3,449"
+    },
+    {
+      "name": "cypress-io/cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "lang": "TypeScript",
+      "stars_today": "13 stars today",
+      "total_stars": "50,253",
+      "forks": "3,426"
+    },
+    {
+      "name": "music-assistant/server",
+      "url": "https://github.com/music-assistant/server",
+      "desc": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
+      "lang": "Python",
+      "stars_today": "157 stars today",
+      "total_stars": "2,602",
+      "forks": "451"
+    },
+    {
+      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "desc": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "lang": "Rust",
+      "stars_today": "146 stars today",
+      "total_stars": "7,401",
+      "forks": "318"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "desc": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "lang": "Python",
+      "stars_today": "408 stars today",
+      "total_stars": "30,231",
+      "forks": "3,413"
+    },
+    {
+      "name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "desc": "A lightweight, lightning-fast, in-process vector database",
+      "lang": "C++",
+      "stars_today": "156 stars today",
+      "total_stars": "10,578",
+      "forks": "611"
+    },
+    {
+      "name": "rmyndharis/OpenWA",
+      "url": "https://github.com/rmyndharis/OpenWA",
+      "desc": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "lang": "TypeScript",
+      "stars_today": "185 stars today",
+      "total_stars": "9,157",
+      "forks": "2,006"
+    },
+    {
+      "name": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "desc": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "lang": "Rust",
+      "stars_today": "334 stars today",
+      "total_stars": "9,353",
+      "forks": "438"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-06-17：13 个项目今天值得你 star\n\n> 📅 2026-06-17  |  🔍 共收录 13 个热门项目\n\n又到了一天一度的「看看别人在卷什么」环节。准备好你的 star 键，Let's go 🚀\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 6 | **Rust**: 3 | **Python**: 2 | **Elixir**: 1 | **C++**: 1\n\n> TypeScript 项目上榜。类型安全的快乐，只有写过 any 的人才能体会。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. freeCodeCamp/freeCodeCamp\n\n**freeCodeCamp/freeCodeCamp** — TypeScript 写的，当然好（不是）。freeCodeCamp.org's open-source codebase and curriculum. Lear...  633 stars today 人表示「先 star 为敬」。\n\n⭐ 633 stars today | 📦 总星 448,709 | 🍴 45,051 | 💻 TypeScript\n[🔗 查看项目](https://github.com/freeCodeCamp/freeCodeCamp)\n\n### 2. swc-project/swc\n\n**swc-project/swc** — 用 Rust 写就。今天获得了 20 stars today 颗星，证明 Rust 还活着且活得挺好。\n\n⭐ 20 stars today | 📦 总星 33,999 | 🍴 1,419 | 💻 Rust\n[🔗 查看项目](https://github.com/swc-project/swc)\n\n### 3. teslamate-org/teslamate\n\n**teslamate-org/teslamate** — 用 Elixir 写就。今天获得了 215 stars today 颗星，证明 Elixir 还活着且活得挺好。\n\n⭐ 215 stars today | 📦 总星 8,438 | 🍴 960 | 💻 Elixir\n[🔗 查看项目](https://github.com/teslamate-org/teslamate)\n\n### 4. iptv-org/iptv\n\n**iptv-org/iptv** — 如果你还没 star，那你可能错过了今天的船票。1,197 stars today 人已经上船了。\n\n⭐ 1,197 stars today | 📦 总星 124,362 | 🍴 6,722 | 💻 TypeScript\n[🔗 查看项目](https://github.com/iptv-org/iptv)\n\n### 5. puppeteer/puppeteer\n\n**puppeteer/puppeteer** — JavaScript API for Chrome and Firefox... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 56 stars today | 📦 总星 94,939 | 🍴 9,452 | 💻 TypeScript\n[🔗 查看项目](https://github.com/puppeteer/puppeteer)\n\n### 6. meshery/meshery\n\n**meshery/meshery** 今天拿了 228 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 228 stars today | 📦 总星 10,886 | 🍴 3,449 | 💻 TypeScript\n[🔗 查看项目](https://github.com/meshery/meshery)\n\n### 7. cypress-io/cypress\n\n**cypress-io/cypress** — Fast, easy and reliable testing for anything that runs in a ...  听起来像个周末项目，但它已经有 50,253 总星了。周末项目，认真的吗？\n\n⭐ 13 stars today | 📦 总星 50,253 | 🍴 3,426 | 💻 TypeScript\n[🔗 查看项目](https://github.com/cypress-io/cypress)\n\n### 8. music-assistant/server\n\n**music-assistant/server** 今天拿了 157 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 157 stars today | 📦 总星 2,602 | 🍴 451 | 💻 Python\n[🔗 查看项目](https://github.com/music-assistant/server)\n\n### 9. Universal-Debloater-Alliance/universal-android-debloater-next-generation\n\n**Universal-Debloater-Alliance/universal-android-debloater-next-generation** — 如果你还没 star，那你可能错过了今天的船票。146 stars today 人已经上船了。\n\n⭐ 146 stars today | 📦 总星 7,401 | 🍴 318 | 💻 Rust\n[🔗 查看项目](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation)\n\n### 10. OpenBMB/VoxCPM\n\n**OpenBMB/VoxCPM** — Python 写的，当然好（不是）。VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generati...  408 stars today 人表示「先 star 为敬」。\n\n⭐ 408 stars today | 📦 总星 30,231 | 🍴 3,413 | 💻 Python\n[🔗 查看项目](https://github.com/OpenBMB/VoxCPM)\n\n---\n\n## 🫡 荣誉提名\n\n- **alibaba/zvec** — A lightweight, lightning-fast, in-process vector database  ⭐ 156 stars today\n- **rmyndharis/OpenWA** — Free, Open Source, Self-Hosted WhatsApp API Gateway  ⭐ 185 stars today\n- **n0-computer/iroh** — IP addresses break, dial keys instead. Modular networking stack in Rust.  ⭐ 334 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-17T05:23:27.687130+00:00"
+}
