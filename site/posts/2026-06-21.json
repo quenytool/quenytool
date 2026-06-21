@@ -1,0 +1,160 @@
+{
+  "date": "2026-06-21",
+  "repos": [
+    {
+      "name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "desc": "macOS video editor built for AI",
+      "lang": "Swift",
+      "stars_today": "902 stars today",
+      "total_stars": "3,652",
+      "forks": "295"
+    },
+    {
+      "name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "desc": "Penpot: The open-source design tool for design and code collaboration",
+      "lang": "Clojure",
+      "stars_today": "420 stars today",
+      "total_stars": "51,607",
+      "forks": "3,307"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "lang": "Python",
+      "stars_today": "677 stars today",
+      "total_stars": "7,219",
+      "forks": "1,166"
+    },
+    {
+      "name": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "desc": "Turso is an in-process SQL database, compatible with SQLite.",
+      "lang": "Rust",
+      "stars_today": "801 stars today",
+      "total_stars": "20,405",
+      "forks": "1,043"
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "desc": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "lang": "C",
+      "stars_today": "1,271 stars today",
+      "total_stars": "9,523",
+      "forks": "720"
+    },
+    {
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "desc": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "lang": "Python",
+      "stars_today": "433 stars today",
+      "total_stars": "24,615",
+      "forks": "2,333"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "desc": "The open alternative to Salesforce, designed for AI.",
+      "lang": "TypeScript",
+      "stars_today": "140 stars today",
+      "total_stars": "50,912",
+      "forks": "7,416"
+    },
+    {
+      "name": "Kong/insomnia",
+      "url": "https://github.com/Kong/insomnia",
+      "desc": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "lang": "TypeScript",
+      "stars_today": "329 stars today",
+      "total_stars": "39,387",
+      "forks": "2,327"
+    },
+    {
+      "name": "tw93/Pake",
+      "url": "https://github.com/tw93/Pake",
+      "desc": "🤱🏻 Turn any webpage into a desktop app with one command.",
+      "lang": "Rust",
+      "stars_today": "2,546 stars today",
+      "total_stars": "55,119",
+      "forks": "10,919"
+    },
+    {
+      "name": "chopratejas/headroom",
+      "url": "https://github.com/chopratejas/headroom",
+      "desc": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "lang": "Python",
+      "stars_today": "3,795 stars today",
+      "total_stars": "42,224",
+      "forks": "2,910"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "desc": "The open-source AI voice studio. Clone, dictate, create.",
+      "lang": "TypeScript",
+      "stars_today": "145 stars today",
+      "total_stars": "31,095",
+      "forks": "3,844"
+    },
+    {
+      "name": "Kilo-Org/kilocode",
+      "url": "https://github.com/Kilo-Org/kilocode",
+      "desc": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "lang": "TypeScript",
+      "stars_today": "513 stars today",
+      "total_stars": "23,422",
+      "forks": "2,745"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .claude directory.",
+      "lang": "Shell",
+      "stars_today": "1,395 stars today",
+      "total_stars": "138,457",
+      "forks": "12,014"
+    },
+    {
+      "name": "withastro/flue",
+      "url": "https://github.com/withastro/flue",
+      "desc": "The sandbox agent framework.",
+      "lang": "TypeScript",
+      "stars_today": "316 stars today",
+      "total_stars": "6,139",
+      "forks": "346"
+    },
+    {
+      "name": "owainlewis/awesome-artificial-intelligence",
+      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "desc": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+      "lang": "Unknown",
+      "stars_today": "48 stars today",
+      "total_stars": "14,841",
+      "forks": "2,360"
+    },
+    {
+      "name": "pppscn/SmsForwarder",
+      "url": "https://github.com/pppscn/SmsForwarder",
+      "desc": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
+      "lang": "Kotlin",
+      "stars_today": "104 stars today",
+      "total_stars": "26,527",
+      "forks": "3,277"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "desc": "Coding Agent Harness",
+      "lang": "Rust",
+      "stars_today": "87 stars today",
+      "total_stars": "7,428",
+      "forks": "828"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-06-21：17 个项目今天值得你 star\n\n> 📅 2026-06-21  |  🔍 共收录 17 个热门项目\n\n早上好，各位键盘侠。今天的 GitHub Trending 告诉我们：世界各地的开发者们依然在不睡觉地写代码。以下是今日战况 ⬇️\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 5 | **Python**: 3 | **Rust**: 3 | **Swift**: 1 | **Clojure**: 1\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. palmier-io/palmier-pro\n\n**palmier-io/palmier-pro** — Swift 写的，当然好（不是）。macOS video editor built for AI...  902 stars today 人表示「先 star 为敬」。\n\n⭐ 902 stars today | 📦 总星 3,652 | 🍴 295 | 💻 Swift\n[🔗 查看项目](https://github.com/palmier-io/palmier-pro)\n\n### 2. penpot/penpot\n\n**penpot/penpot** — 如果你还没 star，那你可能错过了今天的船票。420 stars today 人已经上船了。\n\n⭐ 420 stars today | 📦 总星 51,607 | 🍴 3,307 | 💻 Clojure\n[🔗 查看项目](https://github.com/penpot/penpot)\n\n### 3. calesthio/OpenMontage\n\n**calesthio/OpenMontage** — World's first open-source, agentic video production system. 12 pipelines, 52 too...  677 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 677 stars today | 📦 总星 7,219 | 🍴 1,166 | 💻 Python\n[🔗 查看项目](https://github.com/calesthio/OpenMontage)\n\n### 4. tursodatabase/turso\n\n**tursodatabase/turso** — Rust 写的，当然好（不是）。Turso is an in-process SQL database, compatible with SQLite....  801 stars today 人表示「先 star 为敬」。\n\n⭐ 801 stars today | 📦 总星 20,405 | 🍴 1,043 | 💻 Rust\n[🔗 查看项目](https://github.com/tursodatabase/turso)\n\n### 5. DeusData/codebase-memory-mcp\n\n**DeusData/codebase-memory-mcp** — 用 C 写就。今天获得了 1,271 stars today 颗星，证明 C 还活着且活得挺好。\n\n⭐ 1,271 stars today | 📦 总星 9,523 | 🍴 720 | 💻 C\n[🔗 查看项目](https://github.com/DeusData/codebase-memory-mcp)\n\n### 6. google-research/timesfm\n\n**google-research/timesfm** — 用 Python 写就。今天获得了 433 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 433 stars today | 📦 总星 24,615 | 🍴 2,333 | 💻 Python\n[🔗 查看项目](https://github.com/google-research/timesfm)\n\n### 7. twentyhq/twenty\n\n**twentyhq/twenty** — 用 TypeScript 写就。今天获得了 140 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 140 stars today | 📦 总星 50,912 | 🍴 7,416 | 💻 TypeScript\n[🔗 查看项目](https://github.com/twentyhq/twenty)\n\n### 8. Kong/insomnia\n\n**Kong/insomnia** — The open-source, cross-platform API client for GraphQL, REST, WebSocke... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 329 stars today | 📦 总星 39,387 | 🍴 2,327 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Kong/insomnia)\n\n### 9. tw93/Pake\n\n**tw93/Pake** 今天拿了 2,546 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 2,546 stars today | 📦 总星 55,119 | 🍴 10,919 | 💻 Rust\n[🔗 查看项目](https://github.com/tw93/Pake)\n\n### 10. chopratejas/headroom\n\n**chopratejas/headroom** — Compress tool outputs, logs, files, and RAG chunks before they reach t... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 3,795 stars today | 📦 总星 42,224 | 🍴 2,910 | 💻 Python\n[🔗 查看项目](https://github.com/chopratejas/headroom)\n\n---\n\n## 🫡 荣誉提名\n\n- **jamiepine/voicebox** — The open-source AI voice studio. Clone, dictate, create.  ⭐ 145 stars today\n- **Kilo-Org/kilocode** — Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate fa...  ⭐ 513 stars today\n- **mattpocock/skills** — Skills for Real Engineers. Straight from my .claude directory.  ⭐ 1,395 stars today\n- **withastro/flue** — The sandbox agent framework.  ⭐ 316 stars today\n- **owainlewis/awesome-artificial-intelligence** — A curated list of Artificial Intelligence (AI) courses, books, video lectures an...  ⭐ 48 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-06-21T05:24:30.198699+00:00"
+}
