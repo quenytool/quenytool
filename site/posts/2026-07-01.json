@@ -1,0 +1,178 @@
+{
+  "date": "2026-07-01",
+  "repos": [
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "desc": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "lang": "HTML",
+      "stars_today": "1,343 stars today",
+      "total_stars": "7,135",
+      "forks": "841"
+    },
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "desc": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "lang": "Python",
+      "stars_today": "515 stars today",
+      "total_stars": "28,313",
+      "forks": "3,135"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "lang": "Shell",
+      "stars_today": "1,791 stars today",
+      "total_stars": "121,267",
+      "forks": "19,804"
+    },
+    {
+      "name": "altic-dev/FluidVoice",
+      "url": "https://github.com/altic-dev/FluidVoice",
+      "desc": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
+      "lang": "Swift",
+      "stars_today": "588 stars today",
+      "total_stars": "5,044",
+      "forks": "306"
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "desc": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline & Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "lang": "TypeScript",
+      "stars_today": "387 stars today",
+      "total_stars": "8,734",
+      "forks": "1,406"
+    },
+    {
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "desc": "Edit videos with coding agents",
+      "lang": "Python",
+      "stars_today": "721 stars today",
+      "total_stars": "12,752",
+      "forks": "1,614"
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "desc": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "lang": "Python",
+      "stars_today": "969 stars today",
+      "total_stars": "7,678",
+      "forks": "974"
+    },
+    {
+      "name": "Mebus/cupp",
+      "url": "https://github.com/Mebus/cupp",
+      "desc": "Common User Passwords Profiler (CUPP)",
+      "lang": "Python",
+      "stars_today": "32 stars today",
+      "total_stars": "6,134",
+      "forks": "2,050"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "lang": "HTML",
+      "stars_today": "742 stars today",
+      "total_stars": "127,400",
+      "forks": "13,316"
+    },
+    {
+      "name": "google/agents-cli",
+      "url": "https://github.com/google/agents-cli",
+      "desc": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
+      "lang": "Python",
+      "stars_today": "445 stars today",
+      "total_stars": "4,332",
+      "forks": "465"
+    },
+    {
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "desc": "We write your reusable computer vision tools. 💜",
+      "lang": "Python",
+      "stars_today": "309 stars today",
+      "total_stars": "45,984",
+      "forks": "4,080"
+    },
+    {
+      "name": "ogulcancelik/herdr",
+      "url": "https://github.com/ogulcancelik/herdr",
+      "desc": "agent multiplexer that lives in your terminal.",
+      "lang": "Rust",
+      "stars_today": "486 stars today",
+      "total_stars": "9,112",
+      "forks": "547"
+    },
+    {
+      "name": "simplex-chat/simplex-chat",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "desc": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "lang": "Haskell",
+      "stars_today": "1,235 stars today",
+      "total_stars": "17,407",
+      "forks": "1,012"
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "desc": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+      "lang": "TypeScript",
+      "stars_today": "351 stars today",
+      "total_stars": "1,614",
+      "forks": "139"
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "desc": "12 Weeks, 24 Lessons, AI for All!",
+      "lang": "Jupyter Notebook",
+      "stars_today": "252 stars today",
+      "total_stars": "49,577",
+      "forks": "10,179"
+    },
+    {
+      "name": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "desc": "An open source design system that's fully customizable and agent ready",
+      "lang": "TypeScript",
+      "stars_today": "364 stars today",
+      "total_stars": "1,903",
+      "forks": "103"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "desc": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "lang": "Python",
+      "stars_today": "721 stars today",
+      "total_stars": "15,915",
+      "forks": "2,746"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "890 stars today",
+      "total_stars": "242,728",
+      "forks": "21,538"
+    },
+    {
+      "name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "desc": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "lang": "Python",
+      "stars_today": "189 stars today",
+      "total_stars": "8,941",
+      "forks": "863"
+    }
+  ],
+  "blog_md": "# 🤖 AI 日报不能写？没事，GitHub 日报照常营业 | 2026-07-01\n\n> 📅 2026-07-01  |  🔍 共收录 19 个热门项目\n\n各位摸鱼选手请注意，今日 GitHub Trending 已更新。老板不在的时候看看正好 👀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 8 | **TypeScript**: 3 | **HTML**: 2 | **Shell**: 2 | **Swift**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. hasaneyldrm/exercises-dataset\n\n**hasaneyldrm/exercises-dataset** — A comprehensive dataset of 433 fitness exercises. Each entry includes ... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,343 stars today | 📦 总星 7,135 | 🍴 841 | 💻 HTML\n[🔗 查看项目](https://github.com/hasaneyldrm/exercises-dataset)\n\n### 2. usestrix/strix\n\n**usestrix/strix** — Open-source AI penetration testing tool to find and fix your...  听起来像个周末项目，但它已经有 28,313 总星了。周末项目，认真的吗？\n\n⭐ 515 stars today | 📦 总星 28,313 | 🍴 3,135 | 💻 Python\n[🔗 查看项目](https://github.com/usestrix/strix)\n\n### 3. msitarzewski/agency-agents\n\n**msitarzewski/agency-agents** — A complete AI agency at your fingertips - From frontend wiza...  听起来像个周末项目，但它已经有 121,267 总星了。周末项目，认真的吗？\n\n⭐ 1,791 stars today | 📦 总星 121,267 | 🍴 19,804 | 💻 Shell\n[🔗 查看项目](https://github.com/msitarzewski/agency-agents)\n\n### 4. altic-dev/FluidVoice\n\n**altic-dev/FluidVoice** — Fastest and only macOS Dictation app with on-device STT and ...  听起来像个周末项目，但它已经有 5,044 总星了。周末项目，认真的吗？\n\n⭐ 588 stars today | 📦 总星 5,044 | 🍴 306 | 💻 Swift\n[🔗 查看项目](https://github.com/altic-dev/FluidVoice)\n\n### 5. diegosouzapw/OmniRoute\n\n**diegosouzapw/OmniRoute** 今天拿了 387 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 387 stars today | 📦 总星 8,734 | 🍴 1,406 | 💻 TypeScript\n[🔗 查看项目](https://github.com/diegosouzapw/OmniRoute)\n\n### 6. browser-use/video-use\n\n**browser-use/video-use** 今天拿了 721 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 721 stars today | 📦 总星 12,752 | 🍴 1,614 | 💻 Python\n[🔗 查看项目](https://github.com/browser-use/video-use)\n\n### 7. xbtlin/ai-berkshire\n\n**xbtlin/ai-berkshire** — Python 写的，当然好（不是）。AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师...  969 stars today 人表示「先 star 为敬」。\n\n⭐ 969 stars today | 📦 总星 7,678 | 🍴 974 | 💻 Python\n[🔗 查看项目](https://github.com/xbtlin/ai-berkshire)\n\n### 8. Mebus/cupp\n\n**Mebus/cupp** — 用 Python 写就。今天获得了 32 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 32 stars today | 📦 总星 6,134 | 🍴 2,050 | 💻 Python\n[🔗 查看项目](https://github.com/Mebus/cupp)\n\n### 9. ripienaar/free-for-dev\n\n**ripienaar/free-for-dev** — HTML 写的，当然好（不是）。A list of SaaS, PaaS and IaaS offerings that have free tiers...  742 stars today 人表示「先 star 为敬」。\n\n⭐ 742 stars today | 📦 总星 127,400 | 🍴 13,316 | 💻 HTML\n[🔗 查看项目](https://github.com/ripienaar/free-for-dev)\n\n### 10. google/agents-cli\n\n**google/agents-cli** 今天拿了 445 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 445 stars today | 📦 总星 4,332 | 🍴 465 | 💻 Python\n[🔗 查看项目](https://github.com/google/agents-cli)\n\n---\n\n## 🫡 荣誉提名\n\n- **roboflow/supervision** — We write your reusable computer vision tools. 💜  ⭐ 309 stars today\n- **ogulcancelik/herdr** — agent multiplexer that lives in your terminal.  ⭐ 486 stars today\n- **simplex-chat/simplex-chat** — SimpleX - the first messaging network operating without user identifiers of any ...  ⭐ 1,235 stars today\n- **CoreBunch/Instatic** — Instatic is a modern self-hosted visual CMS - get it running in 1 minute  ⭐ 351 stars today\n- **microsoft/AI-For-Beginners** — 12 Weeks, 24 Lessons, AI for All!  ⭐ 252 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-01T05:04:57.903440+00:00"
+}
