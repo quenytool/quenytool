@@ -1,0 +1,160 @@
+{
+  "date": "2026-07-27",
+  "repos": [
+    {
+      "name": "permissionlesstech/bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "desc": "bluetooth mesh chat, IRC vibes",
+      "lang": "Swift",
+      "stars_today": "1,166 stars today",
+      "total_stars": "30,661",
+      "forks": "4,787"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "desc": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "lang": "JavaScript",
+      "stars_today": "900 stars today",
+      "total_stars": "4,817",
+      "forks": "232"
+    },
+    {
+      "name": "block/buzz",
+      "url": "https://github.com/block/buzz",
+      "desc": "A hive mind communication platform",
+      "lang": "Rust",
+      "stars_today": "1,710 stars today",
+      "total_stars": "13,518",
+      "forks": "1,114"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_today": "149 stars today",
+      "total_stars": "15,101",
+      "forks": "3,312"
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "desc": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
+      "lang": "TypeScript",
+      "stars_today": "888 stars today",
+      "total_stars": "5,781",
+      "forks": "524"
+    },
+    {
+      "name": "yorukot/superfile",
+      "url": "https://github.com/yorukot/superfile",
+      "desc": "Pretty fancy and modern terminal file manager",
+      "lang": "Go",
+      "stars_today": "131 stars today",
+      "total_stars": "20,335",
+      "forks": "640"
+    },
+    {
+      "name": "nodejs/node",
+      "url": "https://github.com/nodejs/node",
+      "desc": "Node.js JavaScript runtime ✨🐢🚀✨",
+      "lang": "JavaScript",
+      "stars_today": "36 stars today",
+      "total_stars": "118,501",
+      "forks": "36,181"
+    },
+    {
+      "name": "OtterMind/Chat2DB",
+      "url": "https://github.com/OtterMind/Chat2DB",
+      "desc": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
+      "lang": "Java",
+      "stars_today": "398 stars today",
+      "total_stars": "27,215",
+      "forks": "2,946"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "lang": "JavaScript",
+      "stars_today": "413 stars today",
+      "total_stars": "50,814",
+      "forks": "2,993"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "desc": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "lang": "Python",
+      "stars_today": "321 stars today",
+      "total_stars": "34,231",
+      "forks": "5,761"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "desc": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "lang": "Go",
+      "stars_today": "832 stars today",
+      "total_stars": "14,007",
+      "forks": "949"
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "desc": "Simple, unified interface to multiple Generative AI providers",
+      "lang": "Python",
+      "stars_today": "187 stars today",
+      "total_stars": "15,436",
+      "forks": "1,634"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "desc": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "lang": "Jupyter Notebook",
+      "stars_today": "379 stars today",
+      "total_stars": "50,298",
+      "forks": "5,924"
+    },
+    {
+      "name": "Pumpkin-MC/Pumpkin",
+      "url": "https://github.com/Pumpkin-MC/Pumpkin",
+      "desc": "Empowering everyone to host fast and efficient Minecraft servers.",
+      "lang": "Rust",
+      "stars_today": "338 stars today",
+      "total_stars": "10,058",
+      "forks": "672"
+    },
+    {
+      "name": "permissionlesstech/bitchat-android",
+      "url": "https://github.com/permissionlesstech/bitchat-android",
+      "desc": "bluetooth mesh chat, IRC vibes",
+      "lang": "Kotlin",
+      "stars_today": "260 stars today",
+      "total_stars": "6,779",
+      "forks": "1,614"
+    },
+    {
+      "name": "jenkinsci/jenkins",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "desc": "Jenkins automation server",
+      "lang": "Java",
+      "stars_today": "18 stars today",
+      "total_stars": "25,739",
+      "forks": "9,657"
+    },
+    {
+      "name": "amnezia-vpn/amnezia-client",
+      "url": "https://github.com/amnezia-vpn/amnezia-client",
+      "desc": "Amnezia VPN Client (Desktop+Mobile)",
+      "lang": "C++",
+      "stars_today": "35 stars today",
+      "total_stars": "13,392",
+      "forks": "1,012"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：bitchat 爆火，Swift 又双叒叕赢了\n\n> 📅 2026-07-27  |  🔍 共收录 17 个热门项目\n\n早上好，各位键盘侠。今天的 GitHub Trending 告诉我们：世界各地的开发者们依然在不睡觉地写代码。以下是今日战况 ⬇️\n\n---\n\n## 📊 今日统计\n\n主力语言：**JavaScript**: 3 | **Rust**: 2 | **TypeScript**: 2 | **Go**: 2 | **Java**: 2\n\n> JavaScript 项目今天也上榜了。`npm install` 之后你的 node_modules 又多了 800 个依赖。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. permissionlesstech/bitchat\n\n**permissionlesstech/bitchat** — 如果你还没 star，那你可能错过了今天的船票。1,166 stars today 人已经上船了。\n\n⭐ 1,166 stars today | 📦 总星 30,661 | 🍴 4,787 | 💻 Swift\n[🔗 查看项目](https://github.com/permissionlesstech/bitchat)\n\n### 2. citrolabs/ego-lite\n\n**citrolabs/ego-lite** — The fastest browser for AI agents to run web automation, built for sharing your ...  900 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 900 stars today | 📦 总星 4,817 | 🍴 232 | 💻 JavaScript\n[🔗 查看项目](https://github.com/citrolabs/ego-lite)\n\n### 3. block/buzz\n\n**block/buzz** 今天拿了 1,710 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,710 stars today | 📦 总星 13,518 | 🍴 1,114 | 💻 Rust\n[🔗 查看项目](https://github.com/block/buzz)\n\n### 4. pingdotgg/t3code\n\n**pingdotgg/t3code** — ...  听起来像个周末项目，但它已经有 15,101 总星了。周末项目，认真的吗？\n\n⭐ 149 stars today | 📦 总星 15,101 | 🍴 3,312 | 💻 TypeScript\n[🔗 查看项目](https://github.com/pingdotgg/t3code)\n\n### 5. CoreBunch/Instatic\n\n**CoreBunch/Instatic** — The open-source alternative to Webflow, Framer and WordPress...  听起来像个周末项目，但它已经有 5,781 总星了。周末项目，认真的吗？\n\n⭐ 888 stars today | 📦 总星 5,781 | 🍴 524 | 💻 TypeScript\n[🔗 查看项目](https://github.com/CoreBunch/Instatic)\n\n### 6. yorukot/superfile\n\n**yorukot/superfile** — Pretty fancy and modern terminal file manager... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 131 stars today | 📦 总星 20,335 | 🍴 640 | 💻 Go\n[🔗 查看项目](https://github.com/yorukot/superfile)\n\n### 7. nodejs/node\n\n**nodejs/node** — 如果你还没 star，那你可能错过了今天的船票。36 stars today 人已经上船了。\n\n⭐ 36 stars today | 📦 总星 118,501 | 🍴 36,181 | 💻 JavaScript\n[🔗 查看项目](https://github.com/nodejs/node)\n\n### 8. OtterMind/Chat2DB\n\n**OtterMind/Chat2DB** — 如果你还没 star，那你可能错过了今天的船票。398 stars today 人已经上船了。\n\n⭐ 398 stars today | 📦 总星 27,215 | 🍴 2,946 | 💻 Java\n[🔗 查看项目](https://github.com/OtterMind/Chat2DB)\n\n### 9. pbakaus/impeccable\n\n**pbakaus/impeccable** — 用 JavaScript 写就。今天获得了 413 stars today 颗星，证明 JavaScript 还活着且活得挺好。\n\n⭐ 413 stars today | 📦 总星 50,814 | 🍴 2,993 | 💻 JavaScript\n[🔗 查看项目](https://github.com/pbakaus/impeccable)\n\n### 10. shiyu-coder/Kronos\n\n**shiyu-coder/Kronos** — Kronos: A Foundation Model for the Language of Financial Mar...  听起来像个周末项目，但它已经有 34,231 总星了。周末项目，认真的吗？\n\n⭐ 321 stars today | 📦 总星 34,231 | 🍴 5,761 | 💻 Python\n[🔗 查看项目](https://github.com/shiyu-coder/Kronos)\n\n---\n\n## 🫡 荣誉提名\n\n- **alibaba/open-code-review** — Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code ...  ⭐ 832 stars today\n- **andrewyng/aisuite** — Simple, unified interface to multiple Generative AI providers  ⭐ 187 stars today\n- **anthropics/claude-cookbooks** — A collection of notebooks/recipes showcasing some fun and effective ways of usin...  ⭐ 379 stars today\n- **Pumpkin-MC/Pumpkin** — Empowering everyone to host fast and efficient Minecraft servers.  ⭐ 338 stars today\n- **permissionlesstech/bitchat-android** — bluetooth mesh chat, IRC vibes  ⭐ 260 stars today\n\n---\n\n下课！去给这些项目贡献 PR 吧——或者至少把 star 点了，给开发者一点心理安慰。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-07-27T04:11:49.404890+00:00"
+}
