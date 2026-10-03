@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-03",
+  "repos": [
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "lang": "Python",
+      "stars_today": "696 stars today",
+      "total_stars": "88,920",
+      "forks": "7,831"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "lang": "Go",
+      "stars_today": "209 stars today",
+      "total_stars": "109,184",
+      "forks": "6,320"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "556 stars today",
+      "total_stars": "294,538",
+      "forks": "26,326"
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "desc": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "lang": "JavaScript",
+      "stars_today": "1,435 stars today",
+      "total_stars": "152,009",
+      "forks": "8,153"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "lang": "JavaScript",
+      "stars_today": "722 stars today",
+      "total_stars": "74,454",
+      "forks": "4,488"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "955 stars today",
+      "total_stars": "274,826",
+      "forks": "23,069"
+    },
+    {
+      "name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "desc": "OpenShell is the safe, private runtime for autonomous AI agents.",
+      "lang": "Rust",
+      "stars_today": "594 stars today",
+      "total_stars": "14,496",
+      "forks": "1,666"
+    },
+    {
+      "name": "coreyhaines31/marketingskills",
+      "url": "https://github.com/coreyhaines31/marketingskills",
+      "desc": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+      "lang": "JavaScript",
+      "stars_today": "140 stars today",
+      "total_stars": "52,475",
+      "forks": "7,883"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "desc": "Write HTML. Render video. Built for agents.",
+      "lang": "TypeScript",
+      "stars_today": "580 stars today",
+      "total_stars": "55,977",
+      "forks": "5,041"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "lang": "TypeScript",
+      "stars_today": "282 stars today",
+      "total_stars": "25,084",
+      "forks": "1,800"
+    },
+    {
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "desc": "Agent Skills for Google products and technologies",
+      "lang": "Python",
+      "stars_today": "39 stars today",
+      "total_stars": "20,805",
+      "forks": "1,725"
+    },
+    {
+      "name": "getsentry/sentry",
+      "url": "https://github.com/getsentry/sentry",
+      "desc": "Developer-first error tracking and performance monitoring",
+      "lang": "Python",
+      "stars_today": "16 stars today",
+      "total_stars": "45,063",
+      "forks": "4,894"
+    },
+    {
+      "name": "colbymchenry/codegraph",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "desc": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "lang": "C",
+      "stars_today": "98 stars today",
+      "total_stars": "73,014",
+      "forks": "4,686"
+    },
+    {
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "desc": "Cursor plugin specification and official plugins",
+      "lang": "TypeScript",
+      "stars_today": "163 stars today",
+      "total_stars": "9,536",
+      "forks": "901"
+    },
+    {
+      "name": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "desc": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "lang": "TypeScript",
+      "stars_today": "683 stars today",
+      "total_stars": "4,429",
+      "forks": "301"
+    },
+    {
+      "name": "Effect-TS/effect",
+      "url": "https://github.com/Effect-TS/effect",
+      "desc": "Build production-ready applications in TypeScript",
+      "lang": "TypeScript",
+      "stars_today": "80 stars today",
+      "total_stars": "16,609",
+      "forks": "804"
+    },
+    {
+      "name": "pablostanley/yoinks",
+      "url": "https://github.com/pablostanley/yoinks",
+      "desc": "yoink any video from your terminal. no shady ads.",
+      "lang": "TypeScript",
+      "stars_today": "623 stars today",
+      "total_stars": "3,591",
+      "forks": "315"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：Agent-Reach 爆火，Python 又双叒叕赢了\n\n> 📅 2026-10-03  |  🔍 共收录 17 个热门项目\n\n今日 GitHub 浓度检测完毕。以下是高浓度项目报告 ☕️\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 6 | **Python**: 3 | **JavaScript**: 3 | **Shell**: 2 | **Go**: 1\n\n> TypeScript 项目上榜。类型安全的快乐，只有写过 any 的人才能体会。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. Panniantong/Agent-Reach\n\n**Panniantong/Agent-Reach** — Give your AI agent eyes to see the entire internet. Read & search Twit... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 696 stars today | 📦 总星 88,920 | 🍴 7,831 | 💻 Python\n[🔗 查看项目](https://github.com/Panniantong/Agent-Reach)\n\n### 2. JuliusBrussee/caveman\n\n**JuliusBrussee/caveman** 今天拿了 209 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 209 stars today | 📦 总星 109,184 | 🍴 6,320 | 💻 Go\n[🔗 查看项目](https://github.com/JuliusBrussee/caveman)\n\n### 3. obra/superpowers\n\n**obra/superpowers** — An agentic skills framework & software development methodology that works....  556 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 556 stars today | 📦 总星 294,538 | 🍴 26,326 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 4. DietrichGebert/ponytail\n\n**DietrichGebert/ponytail** 今天拿了 1,435 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,435 stars today | 📦 总星 152,009 | 🍴 8,153 | 💻 JavaScript\n[🔗 查看项目](https://github.com/DietrichGebert/ponytail)\n\n### 5. pbakaus/impeccable\n\n**pbakaus/impeccable** — JavaScript 写的，当然好（不是）。The design language that makes your AI harness better at des...  722 stars today 人表示「先 star 为敬」。\n\n⭐ 722 stars today | 📦 总星 74,454 | 🍴 4,488 | 💻 JavaScript\n[🔗 查看项目](https://github.com/pbakaus/impeccable)\n\n### 6. mattpocock/skills\n\n**mattpocock/skills** — 用 Shell 写就。今天获得了 955 stars today 颗星，证明 Shell 还活着且活得挺好。\n\n⭐ 955 stars today | 📦 总星 274,826 | 🍴 23,069 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 7. NVIDIA/OpenShell\n\n**NVIDIA/OpenShell** — 用 Rust 写就。今天获得了 594 stars today 颗星，证明 Rust 还活着且活得挺好。\n\n⭐ 594 stars today | 📦 总星 14,496 | 🍴 1,666 | 💻 Rust\n[🔗 查看项目](https://github.com/NVIDIA/OpenShell)\n\n### 8. coreyhaines31/marketingskills\n\n**coreyhaines31/marketingskills** — Marketing skills for Claude Code and AI agents. CRO, copywri...  听起来像个周末项目，但它已经有 52,475 总星了。周末项目，认真的吗？\n\n⭐ 140 stars today | 📦 总星 52,475 | 🍴 7,883 | 💻 JavaScript\n[🔗 查看项目](https://github.com/coreyhaines31/marketingskills)\n\n### 9. heygen-com/hyperframes\n\n**heygen-com/hyperframes** — Write HTML. Render video. Built for agents.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 580 stars today | 📦 总星 55,977 | 🍴 5,041 | 💻 TypeScript\n[🔗 查看项目](https://github.com/heygen-com/hyperframes)\n\n### 10. mksglu/context-mode\n\n**mksglu/context-mode** — TypeScript 写的，当然好（不是）。Context window optimization for AI coding agents. Sandboxes ...  282 stars today 人表示「先 star 为敬」。\n\n⭐ 282 stars today | 📦 总星 25,084 | 🍴 1,800 | 💻 TypeScript\n[🔗 查看项目](https://github.com/mksglu/context-mode)\n\n---\n\n## 🫡 荣誉提名\n\n- **google/skills** — Agent Skills for Google products and technologies  ⭐ 39 stars today\n- **getsentry/sentry** — Developer-first error tracking and performance monitoring  ⭐ 16 stars today\n- **colbymchenry/codegraph** — Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, C...  ⭐ 98 stars today\n- **cursor/plugins** — Cursor plugin specification and official plugins  ⭐ 163 stars today\n- **mvschwarz/openrig** — Build your own network of agents from Claude Code, Codex and Pi: persistent team...  ⭐ 683 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-03T05:33:16.026743+00:00"
+}
