@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-06",
+  "repos": [
+    {
+      "name": "tester-army/e2e",
+      "url": "https://github.com/tester-army/e2e",
+      "desc": "Next generation e2e testing framework for web and mobile apps.",
+      "lang": "TypeScript",
+      "stars_today": "1,398 stars today",
+      "total_stars": "5,155",
+      "forks": "218"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "lang": "TypeScript",
+      "stars_today": "534 stars today",
+      "total_stars": "96,734",
+      "forks": "8,534"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "desc": "Give your agent CAD superpowers.",
+      "lang": "Python",
+      "stars_today": "437 stars today",
+      "total_stars": "17,555",
+      "forks": "1,777"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_today": "485 stars today",
+      "total_stars": "25,704",
+      "forks": "6,615"
+    },
+    {
+      "name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "lang": "C++",
+      "stars_today": "997 stars today",
+      "total_stars": "5,133",
+      "forks": "376"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "desc": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "lang": "Python",
+      "stars_today": "1,155 stars today",
+      "total_stars": "92,114",
+      "forks": "8,082"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "desc": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
+      "lang": "Python",
+      "stars_today": "742 stars today",
+      "total_stars": "64,239",
+      "forks": "8,141"
+    },
+    {
+      "name": "caddyserver/caddy",
+      "url": "https://github.com/caddyserver/caddy",
+      "desc": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
+      "lang": "Go",
+      "stars_today": "515 stars today",
+      "total_stars": "77,253",
+      "forks": "5,080"
+    },
+    {
+      "name": "DuarteSantos8/openGym",
+      "url": "https://github.com/DuarteSantos8/openGym",
+      "desc": "Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
+      "lang": "JavaScript",
+      "stars_today": "1,433 stars today",
+      "total_stars": "4,527",
+      "forks": "682"
+    },
+    {
+      "name": "cloudflare/cloudflare-os",
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "desc": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+      "lang": "TypeScript",
+      "stars_today": "101 stars today",
+      "total_stars": "11,100",
+      "forks": "1,315"
+    },
+    {
+      "name": "Stremio/stremio-web",
+      "url": "https://github.com/Stremio/stremio-web",
+      "desc": "Stremio - Freedom to Stream",
+      "lang": "JavaScript",
+      "stars_today": "111 stars today",
+      "total_stars": "14,350",
+      "forks": "1,636"
+    },
+    {
+      "name": "msitarzewski/agency-agents",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "desc": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "lang": "Shell",
+      "stars_today": "744 stars today",
+      "total_stars": "157,408",
+      "forks": "25,384"
+    },
+    {
+      "name": "M-Abozaid/esp32-c3-adblock",
+      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
+      "desc": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share",
+      "lang": "C++",
+      "stars_today": "196 stars today",
+      "total_stars": "1,502",
+      "forks": "129"
+    }
+  ],
+  "blog_md": "# 🚀 今日 GitHub 热搜：e2e 霸榜，开发者集体失眠\n\n> 📅 2026-10-06  |  🔍 共收录 13 个热门项目\n\n警告：以下内容可能导致大量 star 行为、clone 冲动以及「我也能做」的幻觉。请谨慎阅读 ⚠️\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 4 | **Python**: 3 | **C++**: 2 | **JavaScript**: 2 | **Go**: 1\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. tester-army/e2e\n\n**tester-army/e2e** — Next generation e2e testing framework for web and mobile app...  听起来像个周末项目，但它已经有 5,155 总星了。周末项目，认真的吗？\n\n⭐ 1,398 stars today | 📦 总星 5,155 | 🍴 218 | 💻 TypeScript\n[🔗 查看项目](https://github.com/tester-army/e2e)\n\n### 2. thedotmack/claude-mem\n\n**thedotmack/claude-mem** — TypeScript 写的，当然好（不是）。Persistent Context Across Sessions for Every Agent – Capture...  534 stars today 人表示「先 star 为敬」。\n\n⭐ 534 stars today | 📦 总星 96,734 | 🍴 8,534 | 💻 TypeScript\n[🔗 查看项目](https://github.com/thedotmack/claude-mem)\n\n### 3. earthtojake/text-to-cad\n\n**earthtojake/text-to-cad** — Give your agent CAD superpowers.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 437 stars today | 📦 总星 17,555 | 🍴 1,777 | 💻 Python\n[🔗 查看项目](https://github.com/earthtojake/text-to-cad)\n\n### 4. pingdotgg/t3code\n\n**pingdotgg/t3code** — 用 TypeScript 写就。今天获得了 485 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 485 stars today | 📦 总星 25,704 | 🍴 6,615 | 💻 TypeScript\n[🔗 查看项目](https://github.com/pingdotgg/t3code)\n\n### 5. boykopovar/AnyPS5\n\n**boykopovar/AnyPS5** — Tool for automatic PS5 executables porting to Linux and Windows... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 997 stars today | 📦 总星 5,133 | 🍴 376 | 💻 C++\n[🔗 查看项目](https://github.com/boykopovar/AnyPS5)\n\n### 6. Panniantong/Agent-Reach\n\n**Panniantong/Agent-Reach** — Give your AI agent eyes to see the entire internet. Read & search Twit... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,155 stars today | 📦 总星 92,114 | 🍴 8,082 | 💻 Python\n[🔗 查看项目](https://github.com/Panniantong/Agent-Reach)\n\n### 7. calesthio/OpenMontage\n\n**calesthio/OpenMontage** 今天拿了 742 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 742 stars today | 📦 总星 64,239 | 🍴 8,141 | 💻 Python\n[🔗 查看项目](https://github.com/calesthio/OpenMontage)\n\n### 8. caddyserver/caddy\n\n**caddyserver/caddy** — Fast and extensible multi-platform HTTP/1-2-3 web server with automati... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 515 stars today | 📦 总星 77,253 | 🍴 5,080 | 💻 Go\n[🔗 查看项目](https://github.com/caddyserver/caddy)\n\n### 9. DuarteSantos8/openGym\n\n**DuarteSantos8/openGym** — 如果你还没 star，那你可能错过了今天的船票。1,433 stars today 人已经上船了。\n\n⭐ 1,433 stars today | 📦 总星 4,527 | 🍴 682 | 💻 JavaScript\n[🔗 查看项目](https://github.com/DuarteSantos8/openGym)\n\n### 10. cloudflare/cloudflare-os\n\n**cloudflare/cloudflare-os** — 如果你还没 star，那你可能错过了今天的船票。101 stars today 人已经上船了。\n\n⭐ 101 stars today | 📦 总星 11,100 | 🍴 1,315 | 💻 TypeScript\n[🔗 查看项目](https://github.com/cloudflare/cloudflare-os)\n\n---\n\n## 🫡 荣誉提名\n\n- **Stremio/stremio-web** — Stremio - Freedom to Stream  ⭐ 111 stars today\n- **msitarzewski/agency-agents** — A complete AI agency at your fingertips - From frontend wizards to Reddit commun...  ⭐ 744 stars today\n- **M-Abozaid/esp32-c3-adblock** — Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit...  ⭐ 196 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-06T06:39:49.020026+00:00"
+}
