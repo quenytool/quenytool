@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-09",
+  "repos": [
+    {
+      "name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "lang": "C++",
+      "stars_today": "4,669 stars today",
+      "total_stars": "16,914",
+      "forks": "1,349"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_today": "1,160 stars today",
+      "total_stars": "46,814",
+      "forks": "2,975"
+    },
+    {
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "lang": "TypeScript",
+      "stars_today": "7,738 stars today",
+      "total_stars": "30,607",
+      "forks": "3,674"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "1,774 stars today",
+      "total_stars": "281,481",
+      "forks": "23,594"
+    },
+    {
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "lang": "TypeScript",
+      "stars_today": "670 stars today",
+      "total_stars": "98,685",
+      "forks": "8,651"
+    },
+    {
+      "name": "EpicGames/raddebugger",
+      "url": "https://github.com/EpicGames/raddebugger",
+      "desc": "A native, user-mode, multi-process, graphical debugger.",
+      "lang": "C",
+      "stars_today": "279 stars today",
+      "total_stars": "8,171",
+      "forks": "391"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_today": "392 stars today",
+      "total_stars": "27,821",
+      "forks": "3,220"
+    },
+    {
+      "name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "lang": "Rust",
+      "stars_today": "2,103 stars today",
+      "total_stars": "8,811",
+      "forks": "1,287"
+    },
+    {
+      "name": "liquidslr/system-design-notes",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "desc": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "lang": "Unknown",
+      "stars_today": "393 stars today",
+      "total_stars": "24,914",
+      "forks": "4,632"
+    }
+  ],
+  "blog_md": "# 🐼 GitHub 趋势速递 2026-10-09：9 个项目今天值得你 star\n\n> 📅 2026-10-09  |  🔍 共收录 9 个热门项目\n\n各位摸鱼选手请注意，今日 GitHub Trending 已更新。老板不在的时候看看正好 👀\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 2 | **C++**: 1 | **HTML**: 1 | **Shell**: 1 | **C**: 1\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. boykopovar/AnyPS5\n\n**boykopovar/AnyPS5** — Tool for automatic PS5 executables porting to Linux and Windows...  4,669 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 4,669 stars today | 📦 总星 16,914 | 🍴 1,349 | 💻 C++\n[🔗 查看项目](https://github.com/boykopovar/AnyPS5)\n\n### 2. cathrynlavery/diagram-design\n\n**cathrynlavery/diagram-design** — Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, ...  1,160 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,160 stars today | 📦 总星 46,814 | 🍴 2,975 | 💻 HTML\n[🔗 查看项目](https://github.com/cathrynlavery/diagram-design)\n\n### 3. morluto/rea\n\n**morluto/rea** 今天拿了 7,738 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 7,738 stars today | 📦 总星 30,607 | 🍴 3,674 | 💻 TypeScript\n[🔗 查看项目](https://github.com/morluto/rea)\n\n### 4. mattpocock/skills\n\n**mattpocock/skills** 今天拿了 1,774 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 1,774 stars today | 📦 总星 281,481 | 🍴 23,594 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 5. thedotmack/claude-mem\n\n**thedotmack/claude-mem** — TypeScript 写的，当然好（不是）。Persistent Context Across Sessions for Every Agent – Capture...  670 stars today 人表示「先 star 为敬」。\n\n⭐ 670 stars today | 📦 总星 98,685 | 🍴 8,651 | 💻 TypeScript\n[🔗 查看项目](https://github.com/thedotmack/claude-mem)\n\n### 6. EpicGames/raddebugger\n\n**EpicGames/raddebugger** — C 写的，当然好（不是）。A native, user-mode, multi-process, graphical debugger....  279 stars today 人表示「先 star 为敬」。\n\n⭐ 279 stars today | 📦 总星 8,171 | 🍴 391 | 💻 C\n[🔗 查看项目](https://github.com/EpicGames/raddebugger)\n\n### 7. anthropics/knowledge-work-plugins\n\n**anthropics/knowledge-work-plugins** — 用 Python 写就。今天获得了 392 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 392 stars today | 📦 总星 27,821 | 🍴 3,220 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/knowledge-work-plugins)\n\n### 8. storytold/artcraft\n\n**storytold/artcraft** — Rust 写的，当然好（不是）。ArtCraft is an intentional crafting engine for artists, desi...  2,103 stars today 人表示「先 star 为敬」。\n\n⭐ 2,103 stars today | 📦 总星 8,811 | 🍴 1,287 | 💻 Rust\n[🔗 查看项目](https://github.com/storytold/artcraft)\n\n### 9. liquidslr/system-design-notes\n\n**liquidslr/system-design-notes** — 用 Unknown 写就。今天获得了 393 stars today 颗星，证明 Unknown 还活着且活得挺好。\n\n⭐ 393 stars today | 📦 总星 24,914 | 🍴 4,632 | 💻 Unknown\n[🔗 查看项目](https://github.com/liquidslr/system-design-notes)\n\n---\n\n今天的播报就到这里。记得多喝水，少熬夜，代码跑得过初一跑不过十五。明天见 👋\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-09T06:27:20.571283+00:00"
+}
