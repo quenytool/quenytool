@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-10",
+  "repos": [
+    {
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "lang": "TypeScript",
+      "stars_today": "14,927 stars today",
+      "total_stars": "53,045",
+      "forks": "9,894"
+    },
+    {
+      "name": "boykopovar/AnyPS5",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "desc": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "lang": "C++",
+      "stars_today": "5,868 stars today",
+      "total_stars": "23,220",
+      "forks": "1,916"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "1,687 stars today",
+      "total_stars": "283,129",
+      "forks": "23,719"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_today": "1,739 stars today",
+      "total_stars": "48,176",
+      "forks": "3,049"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "desc": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "lang": "Go",
+      "stars_today": "326 stars today",
+      "total_stars": "45,470",
+      "forks": "3,283"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "desc": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "lang": "Python",
+      "stars_today": "709 stars today",
+      "total_stars": "28,405",
+      "forks": "3,255"
+    },
+    {
+      "name": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "desc": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "lang": "Python",
+      "stars_today": "95 stars today",
+      "total_stars": "60,778",
+      "forks": "12,198"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "desc": "Production-grade engineering skills for AI coding agents.",
+      "lang": "JavaScript",
+      "stars_today": "436 stars today",
+      "total_stars": "104,159",
+      "forks": "10,872"
+    },
+    {
+      "name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "lang": "Rust",
+      "stars_today": "3,752 stars today",
+      "total_stars": "12,128",
+      "forks": "1,848"
+    },
+    {
+      "name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "desc": "[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction",
+      "lang": "Python",
+      "stars_today": "110 stars today",
+      "total_stars": "17,799",
+      "forks": "1,957"
+    },
+    {
+      "name": "twostraws/SwiftUI-Agent-Skill",
+      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "desc": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "lang": "Unknown",
+      "stars_today": "65 stars today",
+      "total_stars": "5,562",
+      "forks": "197"
+    }
+  ],
+  "blog_md": "# 📡 GitHub 雷达 2026-10-10：rea 带着 14,927 stars today 颗星杀过来了\n\n> 📅 2026-10-10  |  🔍 共收录 11 个热门项目\n\n各位摸鱼选手请注意，今日 GitHub Trending 已更新。老板不在的时候看看正好 👀\n\n---\n\n## 📊 今日统计\n\n主力语言：**Python**: 3 | **TypeScript**: 1 | **C++**: 1 | **Shell**: 1 | **HTML**: 1\n\n> Python 选手：pip install 一下，问题解决了一半。另一半是版本冲突。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. morluto/rea\n\n**morluto/rea** — Reverse engineer anything with agents, from app behavior down to nativ... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 14,927 stars today | 📦 总星 53,045 | 🍴 9,894 | 💻 TypeScript\n[🔗 查看项目](https://github.com/morluto/rea)\n\n### 2. boykopovar/AnyPS5\n\n**boykopovar/AnyPS5** — C++ 写的，当然好（不是）。Tool for automatic PS5 executables porting to Linux and Wind...  5,868 stars today 人表示「先 star 为敬」。\n\n⭐ 5,868 stars today | 📦 总星 23,220 | 🍴 1,916 | 💻 C++\n[🔗 查看项目](https://github.com/boykopovar/AnyPS5)\n\n### 3. mattpocock/skills\n\n**mattpocock/skills** — Skills for Real Engineers. Straight from my .agents directory.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,687 stars today | 📦 总星 283,129 | 🍴 23,719 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 4. cathrynlavery/diagram-design\n\n**cathrynlavery/diagram-design** — Editorial diagram design for Claude Code, Codex, GitHub Copi...  听起来像个周末项目，但它已经有 48,176 总星了。周末项目，认真的吗？\n\n⭐ 1,739 stars today | 📦 总星 48,176 | 🍴 3,049 | 💻 HTML\n[🔗 查看项目](https://github.com/cathrynlavery/diagram-design)\n\n### 5. alibaba/open-code-review\n\n**alibaba/open-code-review** — 用 Go 写就。今天获得了 326 stars today 颗星，证明 Go 还活着且活得挺好。\n\n⭐ 326 stars today | 📦 总星 45,470 | 🍴 3,283 | 💻 Go\n[🔗 查看项目](https://github.com/alibaba/open-code-review)\n\n### 6. anthropics/knowledge-work-plugins\n\n**anthropics/knowledge-work-plugins** — Open source repository of plugins primarily intended for knowledge workers to us...  709 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 709 stars today | 📦 总星 28,405 | 🍴 3,255 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/knowledge-work-plugins)\n\n### 7. BerriAI/litellm\n\n**BerriAI/litellm** — 如果你还没 star，那你可能错过了今天的船票。95 stars today 人已经上船了。\n\n⭐ 95 stars today | 📦 总星 60,778 | 🍴 12,198 | 💻 Python\n[🔗 查看项目](https://github.com/BerriAI/litellm)\n\n### 8. addyosmani/agent-skills\n\n**addyosmani/agent-skills** — Production-grade engineering skills for AI coding agents.... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 436 stars today | 📦 总星 104,159 | 🍴 10,872 | 💻 JavaScript\n[🔗 查看项目](https://github.com/addyosmani/agent-skills)\n\n### 9. storytold/artcraft\n\n**storytold/artcraft** — ArtCraft is an intentional crafting engine for artists, desi...  听起来像个周末项目，但它已经有 12,128 总星了。周末项目，认真的吗？\n\n⭐ 3,752 stars today | 📦 总星 12,128 | 🍴 1,848 | 💻 Rust\n[🔗 查看项目](https://github.com/storytold/artcraft)\n\n### 10. Robbyant/lingbot-map\n\n**Robbyant/lingbot-map** — Python 写的，当然好（不是）。[ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometri...  110 stars today 人表示「先 star 为敬」。\n\n⭐ 110 stars today | 📦 总星 17,799 | 🍴 1,957 | 💻 Python\n[🔗 查看项目](https://github.com/Robbyant/lingbot-map)\n\n---\n\n## 🫡 荣誉提名\n\n- **twostraws/SwiftUI-Agent-Skill** — SwiftUI agent skill for Claude Code, Codex, and other AI tools.  ⭐ 65 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-10T06:10:33.416003+00:00"
+}
