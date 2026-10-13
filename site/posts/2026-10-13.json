@@ -1,0 +1,88 @@
+{
+  "date": "2026-10-13",
+  "repos": [
+    {
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "lang": "TypeScript",
+      "stars_today": "45,327 stars today",
+      "total_stars": "173,834",
+      "forks": "41,656"
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "desc": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "lang": "JavaScript",
+      "stars_today": "1,895 stars today",
+      "total_stars": "54,169",
+      "forks": "10,663"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "lang": "TypeScript",
+      "stars_today": "246 stars today",
+      "total_stars": "27,549",
+      "forks": "1,956"
+    },
+    {
+      "name": "storytold/artcraft",
+      "url": "https://github.com/storytold/artcraft",
+      "desc": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
+      "lang": "Rust",
+      "stars_today": "4,095 stars today",
+      "total_stars": "23,107",
+      "forks": "3,690"
+    },
+    {
+      "name": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "desc": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "lang": "Python",
+      "stars_today": "157 stars today",
+      "total_stars": "155,319",
+      "forks": "22,663"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "desc": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "lang": "HTML",
+      "stars_today": "2,081 stars today",
+      "total_stars": "53,057",
+      "forks": "3,352"
+    },
+    {
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "desc": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "lang": "Jupyter Notebook",
+      "stars_today": "879 stars today",
+      "total_stars": "37,762",
+      "forks": "3,890"
+    },
+    {
+      "name": "microsoft/BitNet",
+      "url": "https://github.com/microsoft/BitNet",
+      "desc": "Official inference framework for 1-bit LLMs",
+      "lang": "C++",
+      "stars_today": "97 stars today",
+      "total_stars": "41,023",
+      "forks": "3,819"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "desc": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
+      "lang": "Python",
+      "stars_today": "626 stars today",
+      "total_stars": "59,508",
+      "forks": "9,353"
+    }
+  ],
+  "blog_md": "# 🍿 程序员今日吃瓜：rea 爆火，TypeScript 又双叒叕赢了\n\n> 📅 2026-10-13  |  🔍 共收录 9 个热门项目\n\n今日 GitHub 浓度检测完毕。以下是高浓度项目报告 ☕️\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 2 | **Python**: 2 | **JavaScript**: 1 | **Rust**: 1 | **HTML**: 1\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. morluto/rea\n\n**morluto/rea** — TypeScript 写的，当然好（不是）。Reverse engineer anything with agents, from app behavior dow...  45,327 stars today 人表示「先 star 为敬」。\n\n⭐ 45,327 stars today | 📦 总星 173,834 | 🍴 41,656 | 💻 TypeScript\n[🔗 查看项目](https://github.com/morluto/rea)\n\n### 2. bilawalsidhu/gods-eye-view\n\n**bilawalsidhu/gods-eye-view** — A spy satellite simulator in your browser, except the data is real. Live open so...  1,895 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,895 stars today | 📦 总星 54,169 | 🍴 10,663 | 💻 JavaScript\n[🔗 查看项目](https://github.com/bilawalsidhu/gods-eye-view)\n\n### 3. mksglu/context-mode\n\n**mksglu/context-mode** — 用 TypeScript 写就。今天获得了 246 stars today 颗星，证明 TypeScript 还活着且活得挺好。\n\n⭐ 246 stars today | 📦 总星 27,549 | 🍴 1,956 | 💻 TypeScript\n[🔗 查看项目](https://github.com/mksglu/context-mode)\n\n### 4. storytold/artcraft\n\n**storytold/artcraft** — Rust 写的，当然好（不是）。ArtCraft is an intentional crafting engine for artists, desi...  4,095 stars today 人表示「先 star 为敬」。\n\n⭐ 4,095 stars today | 📦 总星 23,107 | 🍴 3,690 | 💻 Rust\n[🔗 查看项目](https://github.com/storytold/artcraft)\n\n### 5. open-webui/open-webui\n\n**open-webui/open-webui** 今天拿了 157 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 157 stars today | 📦 总星 155,319 | 🍴 22,663 | 💻 Python\n[🔗 查看项目](https://github.com/open-webui/open-webui)\n\n### 6. cathrynlavery/diagram-design\n\n**cathrynlavery/diagram-design** — 用 HTML 写就。今天获得了 2,081 stars today 颗星，证明 HTML 还活着且活得挺好。\n\n⭐ 2,081 stars today | 📦 总星 53,057 | 🍴 3,352 | 💻 HTML\n[🔗 查看项目](https://github.com/cathrynlavery/diagram-design)\n\n### 7. lyogavin/airllm\n\n**lyogavin/airllm** — 如果你还没 star，那你可能错过了今天的船票。879 stars today 人已经上船了。\n\n⭐ 879 stars today | 📦 总星 37,762 | 🍴 3,890 | 💻 Jupyter Notebook\n[🔗 查看项目](https://github.com/lyogavin/airllm)\n\n### 8. microsoft/BitNet\n\n**microsoft/BitNet** — Official inference framework for 1-bit LLMs... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 97 stars today | 📦 总星 41,023 | 🍴 3,819 | 💻 C++\n[🔗 查看项目](https://github.com/microsoft/BitNet)\n\n### 9. Alishahryar1/free-claude-code\n\n**Alishahryar1/free-claude-code** — 用 Python 写就。今天获得了 626 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 626 stars today | 📦 总星 59,508 | 🍴 9,353 | 💻 Python\n[🔗 查看项目](https://github.com/Alishahryar1/free-claude-code)\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-13T06:57:18.192374+00:00"
+}
