@@ -1,0 +1,124 @@
+{
+  "date": "2026-10-16",
+  "repos": [
+    {
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "desc": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "lang": "TypeScript",
+      "stars_today": "32,314 stars today",
+      "total_stars": "275,242",
+      "forks": "69,324"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "desc": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "lang": "Python",
+      "stars_today": "307 stars today",
+      "total_stars": "39,318",
+      "forks": "4,341"
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "desc": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "lang": "Python",
+      "stars_today": "1,091 stars today",
+      "total_stars": "50,692",
+      "forks": "4,503"
+    },
+    {
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "desc": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "lang": "Go",
+      "stars_today": "433 stars today",
+      "total_stars": "112,710",
+      "forks": "6,529"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars_today": "3,024 stars today",
+      "total_stars": "69,450",
+      "forks": "7,602"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "582 stars today",
+      "total_stars": "300,073",
+      "forks": "26,798"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "desc": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "lang": "TypeScript",
+      "stars_today": "147 stars today",
+      "total_stars": "75,238",
+      "forks": "8,939"
+    },
+    {
+      "name": "mksglu/context-mode",
+      "url": "https://github.com/mksglu/context-mode",
+      "desc": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
+      "lang": "TypeScript",
+      "stars_today": "904 stars today",
+      "total_stars": "29,878",
+      "forks": "2,087"
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "desc": "Ghidra is a software reverse engineering (SRE) framework",
+      "lang": "Java",
+      "stars_today": "1,369 stars today",
+      "total_stars": "88,963",
+      "forks": "9,934"
+    },
+    {
+      "name": "affaan-m/ECC",
+      "url": "https://github.com/affaan-m/ECC",
+      "desc": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "lang": "JavaScript",
+      "stars_today": "1,013 stars today",
+      "total_stars": "280,564",
+      "forks": "41,721"
+    },
+    {
+      "name": "lightseekorg/tokenspeed",
+      "url": "https://github.com/lightseekorg/tokenspeed",
+      "desc": "TokenSpeed is a speed-of-light LLM inference engine.",
+      "lang": "Python",
+      "stars_today": "30 stars today",
+      "total_stars": "2,546",
+      "forks": "342"
+    },
+    {
+      "name": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "desc": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.",
+      "lang": "Rust",
+      "stars_today": "715 stars today",
+      "total_stars": "5,871",
+      "forks": "318"
+    },
+    {
+      "name": "LibreSpark/LibreTV",
+      "url": "https://github.com/LibreSpark/LibreTV",
+      "desc": "一分钟搭建影视站，支持Docker等部署方式",
+      "lang": "TypeScript",
+      "stars_today": "978 stars today",
+      "total_stars": "18,193",
+      "forks": "28,780"
+    }
+  ],
+  "blog_md": "# 🔥 GitHub 日报 2026-10-16：今天的代码，明天的 bug\n\n> 📅 2026-10-16  |  🔍 共收录 13 个热门项目\n\n又到了一天一度的「看看别人在卷什么」环节。准备好你的 star 键，Let's go 🚀\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 4 | **Python**: 4 | **Go**: 1 | **Shell**: 1 | **Java**: 1\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. morluto/rea\n\n**morluto/rea** — 如果你还没 star，那你可能错过了今天的船票。32,314 stars today 人已经上船了。\n\n⭐ 32,314 stars today | 📦 总星 275,242 | 🍴 69,324 | 💻 TypeScript\n[🔗 查看项目](https://github.com/morluto/rea)\n\n### 2. anthropics/claude-plugins-official\n\n**anthropics/claude-plugins-official** — 用 Python 写就。今天获得了 307 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 307 stars today | 📦 总星 39,318 | 🍴 4,341 | 💻 Python\n[🔗 查看项目](https://github.com/anthropics/claude-plugins-official)\n\n### 3. K-Dense-AI/scientific-agent-skills\n\n**K-Dense-AI/scientific-agent-skills** — Turn any AI agent into an AI Scientist. The #1 Agent Skills ...  听起来像个周末项目，但它已经有 50,692 总星了。周末项目，认真的吗？\n\n⭐ 1,091 stars today | 📦 总星 50,692 | 🍴 4,503 | 💻 Python\n[🔗 查看项目](https://github.com/K-Dense-AI/scientific-agent-skills)\n\n### 4. JuliusBrussee/caveman\n\n**JuliusBrussee/caveman** — 🪨 why use many token when few token do trick. Viral skill + proxy for coding age...  433 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 433 stars today | 📦 总星 112,710 | 🍴 6,529 | 💻 Go\n[🔗 查看项目](https://github.com/JuliusBrussee/caveman)\n\n### 5. debpalash/VoiceStudio\n\n**debpalash/VoiceStudio** — VoiceStudio is the open-source, fully-local ElevenLabs alter...  听起来像个周末项目，但它已经有 69,450 总星了。周末项目，认真的吗？\n\n⭐ 3,024 stars today | 📦 总星 69,450 | 🍴 7,602 | 💻 Python\n[🔗 查看项目](https://github.com/debpalash/VoiceStudio)\n\n### 6. obra/superpowers\n\n**obra/superpowers** — Shell 写的，当然好（不是）。An agentic skills framework & software development methodolo...  582 stars today 人表示「先 star 为敬」。\n\n⭐ 582 stars today | 📦 总星 300,073 | 🍴 26,798 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 7. ruvnet/ruflo\n\n**ruvnet/ruflo** — 如果你还没 star，那你可能错过了今天的船票。147 stars today 人已经上船了。\n\n⭐ 147 stars today | 📦 总星 75,238 | 🍴 8,939 | 💻 TypeScript\n[🔗 查看项目](https://github.com/ruvnet/ruflo)\n\n### 8. mksglu/context-mode\n\n**mksglu/context-mode** — Context window optimization for AI coding agents. Sandboxes ...  听起来像个周末项目，但它已经有 29,878 总星了。周末项目，认真的吗？\n\n⭐ 904 stars today | 📦 总星 29,878 | 🍴 2,087 | 💻 TypeScript\n[🔗 查看项目](https://github.com/mksglu/context-mode)\n\n### 9. NationalSecurityAgency/ghidra\n\n**NationalSecurityAgency/ghidra** — 如果你还没 star，那你可能错过了今天的船票。1,369 stars today 人已经上船了。\n\n⭐ 1,369 stars today | 📦 总星 88,963 | 🍴 9,934 | 💻 Java\n[🔗 查看项目](https://github.com/NationalSecurityAgency/ghidra)\n\n### 10. affaan-m/ECC\n\n**affaan-m/ECC** — The agent harness performance optimization system. Skills, i...  听起来像个周末项目，但它已经有 280,564 总星了。周末项目，认真的吗？\n\n⭐ 1,013 stars today | 📦 总星 280,564 | 🍴 41,721 | 💻 JavaScript\n[🔗 查看项目](https://github.com/affaan-m/ECC)\n\n---\n\n## 🫡 荣誉提名\n\n- **lightseekorg/tokenspeed** — TokenSpeed is a speed-of-light LLM inference engine.  ⭐ 30 stars today\n- **xerj-org/xerj** — XERJ is the new way for AI to search data. Its autoindex capability activates ag...  ⭐ 715 stars today\n- **LibreSpark/LibreTV** — 一分钟搭建影视站，支持Docker等部署方式  ⭐ 978 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-16T04:47:57.256431+00:00"
+}
