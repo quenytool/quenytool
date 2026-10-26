@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-26",
+  "repos": [
+    {
+      "name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "lang": "TypeScript",
+      "stars_today": "675 stars today",
+      "total_stars": "5,172",
+      "forks": "691"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "lang": "CSS",
+      "stars_today": "1,317 stars today",
+      "total_stars": "34,277",
+      "forks": "1,782"
+    },
+    {
+      "name": "debpalash/VoiceStudio",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "desc": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
+      "lang": "Python",
+      "stars_today": "1,592 stars today",
+      "total_stars": "87,216",
+      "forks": "9,647"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "desc": "The design language that makes your AI harness better at design.",
+      "lang": "Rust",
+      "stars_today": "1,092 stars today",
+      "total_stars": "87,970",
+      "forks": "5,256"
+    },
+    {
+      "name": "pollen-robotics/microduck",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "desc": "A Tiny biped duck robot 🦆",
+      "lang": "Rust",
+      "stars_today": "647 stars today",
+      "total_stars": "11,840",
+      "forks": "1,501"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "desc": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "lang": "Python",
+      "stars_today": "381 stars today",
+      "total_stars": "114,855",
+      "forks": "22,149"
+    },
+    {
+      "name": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "desc": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "lang": "TypeScript",
+      "stars_today": "199 stars today",
+      "total_stars": "7,847",
+      "forks": "1,584"
+    },
+    {
+      "name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "desc": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "lang": "TypeScript",
+      "stars_today": "51 stars today",
+      "total_stars": "1,995",
+      "forks": "112"
+    },
+    {
+      "name": "coollabsio/coolify",
+      "url": "https://github.com/coollabsio/coolify",
+      "desc": "An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
+      "lang": "PHP",
+      "stars_today": "152 stars today",
+      "total_stars": "64,579",
+      "forks": "5,801"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "desc": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "lang": "JavaScript",
+      "stars_today": "2,878 stars today",
+      "total_stars": "47,253",
+      "forks": "2,934"
+    },
+    {
+      "name": "AgriciDaniel/claude-seo",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "desc": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
+      "lang": "Python",
+      "stars_today": "197 stars today",
+      "total_stars": "21,187",
+      "forks": "2,968"
+    }
+  ],
+  "blog_md": "# 🌍 GitHub 今日战报：谁在提交代码，谁在制造 issue\n\n> 📅 2026-10-26  |  🔍 共收录 11 个热门项目\n\n起床上班第一件事：打开电脑。第二件事：打开 GitHub Trending 看看又有多少大牛做出了你一年前的 TODO 项目 😭\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 3 | **Python**: 3 | **Rust**: 2 | **CSS**: 1 | **PHP**: 1\n\n> TypeScript 项目上榜。类型安全的快乐，只有写过 any 的人才能体会。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. makecindy/cindy\n\n**makecindy/cindy** — Consider it done. The open-source AI agent that works out of the box ·... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 675 stars today | 📦 总星 5,172 | 🍴 691 | 💻 TypeScript\n[🔗 查看项目](https://github.com/makecindy/cindy)\n\n### 2. Nutlope/hallmark\n\n**Nutlope/hallmark** — Anti-AI-slop design skill for Claude Code, Cursor, and Codex....  1,317 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,317 stars today | 📦 总星 34,277 | 🍴 1,782 | 💻 CSS\n[🔗 查看项目](https://github.com/Nutlope/hallmark)\n\n### 3. debpalash/VoiceStudio\n\n**debpalash/VoiceStudio** — 用 Python 写就。今天获得了 1,592 stars today 颗星，证明 Python 还活着且活得挺好。\n\n⭐ 1,592 stars today | 📦 总星 87,216 | 🍴 9,647 | 💻 Python\n[🔗 查看项目](https://github.com/debpalash/VoiceStudio)\n\n### 4. pbakaus/impeccable\n\n**pbakaus/impeccable** — The design language that makes your AI harness better at design....  1,092 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,092 stars today | 📦 总星 87,970 | 🍴 5,256 | 💻 Rust\n[🔗 查看项目](https://github.com/pbakaus/impeccable)\n\n### 5. pollen-robotics/microduck\n\n**pollen-robotics/microduck** — A Tiny biped duck robot 🦆...  647 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 647 stars today | 📦 总星 11,840 | 🍴 1,501 | 💻 Rust\n[🔗 查看项目](https://github.com/pollen-robotics/microduck)\n\n### 6. TauricResearch/TradingAgents\n\n**TauricResearch/TradingAgents** — 如果你还没 star，那你可能错过了今天的船票。381 stars today 人已经上船了。\n\n⭐ 381 stars today | 📦 总星 114,855 | 🍴 22,149 | 💻 Python\n[🔗 查看项目](https://github.com/TauricResearch/TradingAgents)\n\n### 7. Renhuai123/ziwei-doushu\n\n**Renhuai123/ziwei-doushu** — 如果你还没 star，那你可能错过了今天的船票。199 stars today 人已经上船了。\n\n⭐ 199 stars today | 📦 总星 7,847 | 🍴 1,584 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Renhuai123/ziwei-doushu)\n\n### 8. JetBrains/thinkrail\n\n**JetBrains/thinkrail** — Vibe code with pi in a lightweight, real IDE that customises itself ar... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 51 stars today | 📦 总星 1,995 | 🍴 112 | 💻 TypeScript\n[🔗 查看项目](https://github.com/JetBrains/thinkrail)\n\n### 9. coollabsio/coolify\n\n**coollabsio/coolify** — PHP 写的，当然好（不是）。An open-source, self-hostable PaaS alternative to Vercel, He...  152 stars today 人表示「先 star 为敬」。\n\n⭐ 152 stars today | 📦 总星 64,579 | 🍴 5,801 | 💻 PHP\n[🔗 查看项目](https://github.com/coollabsio/coolify)\n\n### 10. cloudflare/security-audit-skill\n\n**cloudflare/security-audit-skill** — A coding-agent skill for multi-phase security audits with independently verified...  2,878 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 2,878 stars today | 📦 总星 47,253 | 🍴 2,934 | 💻 JavaScript\n[🔗 查看项目](https://github.com/cloudflare/security-audit-skill)\n\n---\n\n## 🫡 荣誉提名\n\n- **AgriciDaniel/claude-seo** — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering tech...  ⭐ 197 stars today\n\n---\n\n散会！今天又有 N 个新项目加入了你的「迟早会看」收藏夹。我懂的。\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-26T05:07:05.522828+00:00"
+}
