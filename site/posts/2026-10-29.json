@@ -1,0 +1,133 @@
+{
+  "date": "2026-10-29",
+  "repos": [
+    {
+      "name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "desc": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "lang": "TypeScript",
+      "stars_today": "1,068 stars today",
+      "total_stars": "5,342",
+      "forks": "273"
+    },
+    {
+      "name": "elayadesign/ai-design-skills",
+      "url": "https://github.com/elayadesign/ai-design-skills",
+      "desc": "",
+      "lang": "Unknown",
+      "stars_today": "2,139 stars today",
+      "total_stars": "11,391",
+      "forks": "824"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "1,095 stars today",
+      "total_stars": "307,649",
+      "forks": "27,364"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "lang": "Python",
+      "stars_today": "2,371 stars today",
+      "total_stars": "48,497",
+      "forks": "6,010"
+    },
+    {
+      "name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "desc": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "lang": "Rust",
+      "stars_today": "117 stars today",
+      "total_stars": "5,534",
+      "forks": "526"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "desc": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "lang": "CSS",
+      "stars_today": "2,110 stars today",
+      "total_stars": "41,023",
+      "forks": "2,127"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "desc": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "lang": "Rust",
+      "stars_today": "1,472 stars today",
+      "total_stars": "93,355",
+      "forks": "5,509"
+    },
+    {
+      "name": "makecindy/cindy",
+      "url": "https://github.com/makecindy/cindy",
+      "desc": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
+      "lang": "TypeScript",
+      "stars_today": "728 stars today",
+      "total_stars": "8,274",
+      "forks": "970"
+    },
+    {
+      "name": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "desc": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "lang": "TypeScript",
+      "stars_today": "1,054 stars today",
+      "total_stars": "3,424",
+      "forks": "328"
+    },
+    {
+      "name": "togg53192-cmd/jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "desc": "LIST OF ALL MY JAILBREAKS",
+      "lang": "Unknown",
+      "stars_today": "1,477 stars today",
+      "total_stars": "7,490",
+      "forks": "1,067"
+    },
+    {
+      "name": "hmjz100/LinkSwift",
+      "url": "https://github.com/hmjz100/LinkSwift",
+      "desc": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
+      "lang": "JavaScript",
+      "stars_today": "1,616 stars today",
+      "total_stars": "35,417",
+      "forks": "2,511"
+    },
+    {
+      "name": "expo/skills",
+      "url": "https://github.com/expo/skills",
+      "desc": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "lang": "Shell",
+      "stars_today": "90 stars today",
+      "total_stars": "3,665",
+      "forks": "233"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "desc": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "lang": "Rust",
+      "stars_today": "557 stars today",
+      "total_stars": "101,248",
+      "forks": "13,172"
+    },
+    {
+      "name": "xiaolai/the-craft-of-selfteaching",
+      "url": "https://github.com/xiaolai/the-craft-of-selfteaching",
+      "desc": "One has no future if one couldn't teach themself.",
+      "lang": "Jupyter Notebook",
+      "stars_today": "148 stars today",
+      "total_stars": "18,669",
+      "forks": "17,907"
+    }
+  ],
+  "blog_md": "# 🔥 GitHub 日报 2026-10-29：今天的代码，明天的 bug\n\n> 📅 2026-10-29  |  🔍 共收录 14 个热门项目\n\n早上好，各位键盘侠。今天的 GitHub Trending 告诉我们：世界各地的开发者们依然在不睡觉地写代码。以下是今日战况 ⬇️\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 3 | **Rust**: 3 | **Unknown**: 2 | **Shell**: 2 | **Python**: 1\n\n> TypeScript 项目上榜。类型安全的快乐，只有写过 any 的人才能体会。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. JetBrains/thinkrail\n\n**JetBrains/thinkrail** — Vibe code with pi in a lightweight, real IDE that customises itself ar... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 1,068 stars today | 📦 总星 5,342 | 🍴 273 | 💻 TypeScript\n[🔗 查看项目](https://github.com/JetBrains/thinkrail)\n\n### 2. elayadesign/ai-design-skills\n\n**elayadesign/ai-design-skills** — ...  2,139 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 2,139 stars today | 📦 总星 11,391 | 🍴 824 | 💻 Unknown\n[🔗 查看项目](https://github.com/elayadesign/ai-design-skills)\n\n### 3. obra/superpowers\n\n**obra/superpowers** — 如果你还没 star，那你可能错过了今天的船票。1,095 stars today 人已经上船了。\n\n⭐ 1,095 stars today | 📦 总星 307,649 | 🍴 27,364 | 💻 Shell\n[🔗 查看项目](https://github.com/obra/superpowers)\n\n### 4. HKUDS/DeepTutor\n\n**HKUDS/DeepTutor** — Python 写的，当然好（不是）。DeepTutor: Lifelong Personalized Tutoring. https://deeptutor...  2,371 stars today 人表示「先 star 为敬」。\n\n⭐ 2,371 stars today | 📦 总星 48,497 | 🍴 6,010 | 💻 Python\n[🔗 查看项目](https://github.com/HKUDS/DeepTutor)\n\n### 5. macro-inc/macro\n\n**macro-inc/macro** — Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls,...  117 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 117 stars today | 📦 总星 5,534 | 🍴 526 | 💻 Rust\n[🔗 查看项目](https://github.com/macro-inc/macro)\n\n### 6. Nutlope/hallmark\n\n**Nutlope/hallmark** 今天拿了 2,110 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 2,110 stars today | 📦 总星 41,023 | 🍴 2,127 | 💻 CSS\n[🔗 查看项目](https://github.com/Nutlope/hallmark)\n\n### 7. pbakaus/impeccable\n\n**pbakaus/impeccable** — The design vocabulary for your coding agent. Steer with poli...  听起来像个周末项目，但它已经有 93,355 总星了。周末项目，认真的吗？\n\n⭐ 1,472 stars today | 📦 总星 93,355 | 🍴 5,509 | 💻 Rust\n[🔗 查看项目](https://github.com/pbakaus/impeccable)\n\n### 8. makecindy/cindy\n\n**makecindy/cindy** 今天拿了 728 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 728 stars today | 📦 总星 8,274 | 🍴 970 | 💻 TypeScript\n[🔗 查看项目](https://github.com/makecindy/cindy)\n\n### 9. nightly-labs/openbot\n\n**nightly-labs/openbot** — A local-first desktop workspace for persistent AI teammates....  听起来像个周末项目，但它已经有 3,424 总星了。周末项目，认真的吗？\n\n⭐ 1,054 stars today | 📦 总星 3,424 | 🍴 328 | 💻 TypeScript\n[🔗 查看项目](https://github.com/nightly-labs/openbot)\n\n### 10. togg53192-cmd/jailbreaks\n\n**togg53192-cmd/jailbreaks** — LIST OF ALL MY JAILBREAKS...  听起来像个周末项目，但它已经有 7,490 总星了。周末项目，认真的吗？\n\n⭐ 1,477 stars today | 📦 总星 7,490 | 🍴 1,067 | 💻 Unknown\n[🔗 查看项目](https://github.com/togg53192-cmd/jailbreaks)\n\n---\n\n## 🫡 荣誉提名\n\n- **hmjz100/LinkSwift** — 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅...  ⭐ 1,616 stars today\n- **expo/skills** — A collection of AI agent skills for working with Expo projects and Expo Applicat...  ⭐ 90 stars today\n- **ruvnet/RuView** — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital...  ⭐ 557 stars today\n- **xiaolai/the-craft-of-selfteaching** — One has no future if one couldn't teach themself.  ⭐ 148 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-29T06:09:59.159669+00:00"
+}
