@@ -1,0 +1,142 @@
+{
+  "date": "2026-10-31",
+  "repos": [
+    {
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "desc": "Persistent Context Across Sessions for Every Agent – Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "lang": "TypeScript",
+      "stars_today": "1,140 stars today",
+      "total_stars": "106,612",
+      "forks": "9,383"
+    },
+    {
+      "name": "milind-soni/OpenMausBot",
+      "url": "https://github.com/milind-soni/OpenMausBot",
+      "desc": "Open-source Grok Bot alternative with a virtual machine that bots can use",
+      "lang": "TypeScript",
+      "stars_today": "895 stars today",
+      "total_stars": "8,906",
+      "forks": "1,224"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "desc": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "lang": "Rust",
+      "stars_today": "2,300 stars today",
+      "total_stars": "97,328",
+      "forks": "5,733"
+    },
+    {
+      "name": "CopilotKit/OpenBot",
+      "url": "https://github.com/CopilotKit/OpenBot",
+      "desc": "Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.",
+      "lang": "TypeScript",
+      "stars_today": "706 stars today",
+      "total_stars": "8,911",
+      "forks": "1,117"
+    },
+    {
+      "name": "Renhuai123/ziwei-doushu",
+      "url": "https://github.com/Renhuai123/ziwei-doushu",
+      "desc": "紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据",
+      "lang": "TypeScript",
+      "stars_today": "1,126 stars today",
+      "total_stars": "11,505",
+      "forks": "2,277"
+    },
+    {
+      "name": "expo/skills",
+      "url": "https://github.com/expo/skills",
+      "desc": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "lang": "Shell",
+      "stars_today": "38 stars today",
+      "total_stars": "3,927",
+      "forks": "248"
+    },
+    {
+      "name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "desc": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "lang": "Rust",
+      "stars_today": "57 stars today",
+      "total_stars": "5,932",
+      "forks": "542"
+    },
+    {
+      "name": "mattpocock/skills",
+      "url": "https://github.com/mattpocock/skills",
+      "desc": "Skills for Real Engineers. Straight from my .agents directory.",
+      "lang": "Shell",
+      "stars_today": "876 stars today",
+      "total_stars": "307,638",
+      "forks": "25,896"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "desc": "",
+      "lang": "TypeScript",
+      "stars_today": "930 stars today",
+      "total_stars": "33,001",
+      "forks": "8,677"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "desc": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "lang": "Python",
+      "stars_today": "2,282 stars today",
+      "total_stars": "51,968",
+      "forks": "6,369"
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "desc": "Public repository for Agent Skills",
+      "lang": "Python",
+      "stars_today": "295 stars today",
+      "total_stars": "185,484",
+      "forks": "21,904"
+    },
+    {
+      "name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "desc": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "lang": "TypeScript",
+      "stars_today": "722 stars today",
+      "total_stars": "6,665",
+      "forks": "360"
+    },
+    {
+      "name": "togg53192-cmd/jailbreaks",
+      "url": "https://github.com/togg53192-cmd/jailbreaks",
+      "desc": "LIST OF ALL MY JAILBREAKS",
+      "lang": "Unknown",
+      "stars_today": "2,055 stars today",
+      "total_stars": "11,478",
+      "forks": "1,679"
+    },
+    {
+      "name": "obra/superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "desc": "An agentic skills framework & software development methodology that works.",
+      "lang": "Shell",
+      "stars_today": "1,259 stars today",
+      "total_stars": "309,551",
+      "forks": "27,545"
+    },
+    {
+      "name": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "desc": "Lightpanda: the headless browser designed for AI and automation",
+      "lang": "Zig",
+      "stars_today": "626 stars today",
+      "total_stars": "38,592",
+      "forks": "1,877"
+    }
+  ],
+  "blog_md": "# 🌍 GitHub 今日战报：谁在提交代码，谁在制造 issue\n\n> 📅 2026-10-31  |  🔍 共收录 15 个热门项目\n\n又到了一天一度的「看看别人在卷什么」环节。准备好你的 star 键，Let's go 🚀\n\n---\n\n## 📊 今日统计\n\n主力语言：**TypeScript**: 6 | **Shell**: 3 | **Rust**: 2 | **Python**: 2 | **Unknown**: 1\n\n> TypeScript 又来了。记住：any 是毒药，never 是解药。\n\n---\n\n## 🔥 热门项目 Top 10\n\n### 1. thedotmack/claude-mem\n\n**thedotmack/claude-mem** — 如果你还没 star，那你可能错过了今天的船票。1,140 stars today 人已经上船了。\n\n⭐ 1,140 stars today | 📦 总星 106,612 | 🍴 9,383 | 💻 TypeScript\n[🔗 查看项目](https://github.com/thedotmack/claude-mem)\n\n### 2. milind-soni/OpenMausBot\n\n**milind-soni/OpenMausBot** 今天拿了 895 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 895 stars today | 📦 总星 8,906 | 🍴 1,224 | 💻 TypeScript\n[🔗 查看项目](https://github.com/milind-soni/OpenMausBot)\n\n### 3. pbakaus/impeccable\n\n**pbakaus/impeccable** — The design vocabulary for your coding agent. Steer with poli...  听起来像个周末项目，但它已经有 97,328 总星了。周末项目，认真的吗？\n\n⭐ 2,300 stars today | 📦 总星 97,328 | 🍴 5,733 | 💻 Rust\n[🔗 查看项目](https://github.com/pbakaus/impeccable)\n\n### 4. CopilotKit/OpenBot\n\n**CopilotKit/OpenBot** — Open-source AI coworkers that each get a computer of their own: a brow... 翻译成人话就是：又一个「简单、快速、强大」的东西，而且这次可能是真的。\n\n⭐ 706 stars today | 📦 总星 8,911 | 🍴 1,117 | 💻 TypeScript\n[🔗 查看项目](https://github.com/CopilotKit/OpenBot)\n\n### 5. Renhuai123/ziwei-doushu\n\n**Renhuai123/ziwei-doushu** — 紫微斗数开源排盘引擎 — 基于倪海厦《天纪》体系，含完整排盘算法、四化系统、格局知识库、古籍原文数据...  1,126 stars today 人今天被这个项目征服。它的存在证明了：好代码不需要 README 写三页。\n\n⭐ 1,126 stars today | 📦 总星 11,505 | 🍴 2,277 | 💻 TypeScript\n[🔗 查看项目](https://github.com/Renhuai123/ziwei-doushu)\n\n### 6. expo/skills\n\n**expo/skills** — Shell 写的，当然好（不是）。A collection of AI agent skills for working with Expo projec...  38 stars today 人表示「先 star 为敬」。\n\n⭐ 38 stars today | 📦 总星 3,927 | 🍴 248 | 💻 Shell\n[🔗 查看项目](https://github.com/expo/skills)\n\n### 7. macro-inc/macro\n\n**macro-inc/macro** — 用 Rust 写就。今天获得了 57 stars today 颗星，证明 Rust 还活着且活得挺好。\n\n⭐ 57 stars today | 📦 总星 5,932 | 🍴 542 | 💻 Rust\n[🔗 查看项目](https://github.com/macro-inc/macro)\n\n### 8. mattpocock/skills\n\n**mattpocock/skills** 今天拿了 876 stars today 颗星星，比某些人一辈子拿的赞还多 ⭐\n\n⭐ 876 stars today | 📦 总星 307,638 | 🍴 25,896 | 💻 Shell\n[🔗 查看项目](https://github.com/mattpocock/skills)\n\n### 9. pingdotgg/t3code\n\n**pingdotgg/t3code** — ...  听起来像个周末项目，但它已经有 33,001 总星了。周末项目，认真的吗？\n\n⭐ 930 stars today | 📦 总星 33,001 | 🍴 8,677 | 💻 TypeScript\n[🔗 查看项目](https://github.com/pingdotgg/t3code)\n\n### 10. HKUDS/DeepTutor\n\n**HKUDS/DeepTutor** — DeepTutor: Lifelong Personalized Tutoring. https://deeptutor...  听起来像个周末项目，但它已经有 51,968 总星了。周末项目，认真的吗？\n\n⭐ 2,282 stars today | 📦 总星 51,968 | 🍴 6,369 | 💻 Python\n[🔗 查看项目](https://github.com/HKUDS/DeepTutor)\n\n---\n\n## 🫡 荣誉提名\n\n- **anthropics/skills** — Public repository for Agent Skills  ⭐ 295 stars today\n- **JetBrains/thinkrail** — Vibe code with pi in a lightweight, real IDE that customises itself around the w...  ⭐ 722 stars today\n- **togg53192-cmd/jailbreaks** — LIST OF ALL MY JAILBREAKS  ⭐ 2,055 stars today\n- **obra/superpowers** — An agentic skills framework & software development methodology that works.  ⭐ 1,259 stars today\n- **lightpanda-io/browser** — Lightpanda: the headless browser designed for AI and automation  ⭐ 626 stars today\n\n---\n\n如果你觉得这些项目不够有趣，不妨自己造一个——然后你就会发现，GitHub Trending 上的项目背后都是无数个不眠之夜。🌙\n\n---\n\n*🤖 本文由自动化脚本生成。幽默感如有冒犯，纯属巧合。数据来源：github.com/trending*",
+  "generated_at": "2026-10-31T06:05:13.913770+00:00"
+}
